@@ -64,7 +64,7 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
 .search{width:100%;display:flex;align-items:center;gap:10px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:11px 14px}
 .search input{width:100%;background:none;border:none;outline:none;color:var(--ink);font-size:15px}
 .search input::placeholder{color:var(--faint)}
-.search svg{flex:0 0 auto;color:var(--muted)}
+.search svg{flex:0 0 auto;width:19px;height:19px;color:var(--muted)}
 .chips{display:flex;gap:8px;overflow-x:auto;padding:12px 0 4px;scrollbar-width:none}
 .chips::-webkit-scrollbar{display:none}
 .chip{flex:0 0 auto;padding:7px 13px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--muted);font-size:13px;font-weight:500;white-space:nowrap;transition:.15s}
