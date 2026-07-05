@@ -1,0 +1,2001 @@
+{
+  "versao": 1,
+  "ervas": [
+    {
+      "id": "gengibre",
+      "nome": "Gengibre",
+      "nome_de": "Ingwer",
+      "nome_en": "Ginger",
+      "nome_cientifico": "Zingiber officinale",
+      "categorias": [
+        "digestao",
+        "imunidade",
+        "dores",
+        "menstruacao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 9
+        },
+        {
+          "pt": "Náusea",
+          "de": "Übelkeit",
+          "en": "Nausea",
+          "nota": 9
+        },
+        {
+          "pt": "Anti-inflamatório",
+          "de": "Entzündungshemmend",
+          "en": "Anti-inflammatory",
+          "nota": 7
+        },
+        {
+          "pt": "Circulação",
+          "de": "Kreislauf",
+          "en": "Circulation",
+          "nota": 6
+        }
+      ],
+      "descricao": {
+        "pt": "Raiz aquecedora e um dos melhores digestivos que existem: acelera o esvaziamento do estômago e corta a náusea de forma comprovada. Tem ação anti-inflamatória real, com evidência para dor menstrual e dor muscular pós-esforço.",
+        "de": "Wärmende Wurzel und eines der besten Verdauungsmittel: beschleunigt die Magenentleerung und lindert nachweislich Übelkeit. Wirkt echt entzündungshemmend, mit Belegen bei Menstruations- und Muskelschmerzen.",
+        "en": "A warming root and one of the best digestive aids there is: it speeds gastric emptying and reliably cuts nausea. It has genuine anti-inflammatory action, with evidence for menstrual and post-exercise muscle pain."
+      },
+      "preparo": {
+        "pt": "Fresco ralado ou seco, fervido 8–10 min.",
+        "de": "Frisch gerieben oder getrocknet, 8–10 Min. kochen.",
+        "en": "Fresh grated or dried, boiled 8–10 min."
+      },
+      "avisos": {
+        "pt": "Em dose alta interage com anticoagulantes.",
+        "de": "In hoher Dosis Wechselwirkung mit Blutverdünnern.",
+        "en": "In high doses interacts with blood thinners."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "curcuma",
+      "nome": "Cúrcuma",
+      "nome_de": "Kurkuma",
+      "nome_en": "Turmeric",
+      "nome_cientifico": "Curcuma longa",
+      "categorias": [
+        "imunidade",
+        "dores",
+        "limpeza"
+      ],
+      "funcoes": [
+        {
+          "pt": "Anti-inflamatório",
+          "de": "Entzündungshemmend",
+          "en": "Anti-inflammatory",
+          "nota": 8
+        },
+        {
+          "pt": "Antioxidante",
+          "de": "Antioxidativ",
+          "en": "Antioxidant",
+          "nota": 7
+        },
+        {
+          "pt": "Fluxo de bile",
+          "de": "Gallenfluss",
+          "en": "Bile flow",
+          "nota": 7
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 6
+        }
+      ],
+      "descricao": {
+        "pt": "Anti-inflamatório e antioxidante de fundo, com uso hepático: estimula a produção de bile — por isso é frequentemente indicada após retirada da vesícula. A curcumina é mal absorvida sozinha.",
+        "de": "Grundlegend entzündungshemmend und antioxidativ, mit Leberwirkung: regt die Gallenproduktion an — daher oft nach Gallenblasenentfernung empfohlen. Curcumin wird allein schlecht aufgenommen.",
+        "en": "A baseline anti-inflammatory and antioxidant with liver action: it stimulates bile production, which is why it's often recommended after gallbladder removal. Curcumin is poorly absorbed on its own."
+      },
+      "preparo": {
+        "pt": "Sempre com pitada de pimenta-preta e um pouco de gordura.",
+        "de": "Immer mit einer Prise schwarzem Pfeffer und etwas Fett.",
+        "en": "Always with a pinch of black pepper and a little fat."
+      },
+      "avisos": {
+        "pt": "Dose alta: cuidado com anticoagulantes; evitar em obstrução biliar.",
+        "de": "Hohe Dosis: Vorsicht mit Blutverdünnern; bei Gallenwegsverschluss meiden.",
+        "en": "High dose: caution with blood thinners; avoid with bile-duct obstruction."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "cravo",
+      "nome": "Cravo-da-índia",
+      "nome_de": "Nelken",
+      "nome_en": "Clove",
+      "nome_cientifico": "Syzygium aromaticum",
+      "categorias": [
+        "imunidade",
+        "digestao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Antimicrobiano",
+          "de": "Antimikrobiell",
+          "en": "Antimicrobial",
+          "nota": 7
+        },
+        {
+          "pt": "Antioxidante",
+          "de": "Antioxidativ",
+          "en": "Antioxidant",
+          "nota": 8
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 6
+        },
+        {
+          "pt": "Alívio da dor",
+          "de": "Schmerzlinderung",
+          "en": "Pain relief",
+          "nota": 6
+        }
+      ],
+      "descricao": {
+        "pt": "Um dos maiores poderes antioxidantes e antimicrobianos por grama, graças ao eugenol. Estimula o suco digestivo e tem efeito analgésico local (a origem do velho uso para dor de dente).",
+        "de": "Dank Eugenol eine der stärksten antioxidativen und antimikrobiellen Wirkungen pro Gramm. Regt den Verdauungssaft an und wirkt lokal schmerzstillend (daher der alte Einsatz bei Zahnschmerzen).",
+        "en": "One of the strongest antioxidant and antimicrobial powers per gram, thanks to eugenol. It stimulates digestive juices and has a local analgesic effect (the origin of its old use for toothache)."
+      },
+      "preparo": {
+        "pt": "Pouco: 2–3 cravos no blend, com canela ou gengibre.",
+        "de": "Wenig: 2–3 Nelken in der Mischung, mit Zimt oder Ingwer.",
+        "en": "A little: 2–3 cloves in the blend, with cinnamon or ginger."
+      },
+      "avisos": {
+        "pt": "Muito concentrado; não exagerar na quantidade.",
+        "de": "Sehr konzentriert; Menge nicht übertreiben.",
+        "en": "Very concentrated; don't overdo the amount."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "funcho",
+      "nome": "Funcho",
+      "nome_de": "Fenchel",
+      "nome_en": "Fennel",
+      "nome_cientifico": "Foeniculum vulgare",
+      "categorias": [
+        "digestao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Gases e inchaço",
+          "de": "Blähungen",
+          "en": "Gas & bloating",
+          "nota": 9
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 8
+        },
+        {
+          "pt": "Antiespasmódico",
+          "de": "Krampflösend",
+          "en": "Antispasmodic",
+          "nota": 7
+        },
+        {
+          "pt": "Respiratório",
+          "de": "Atemwege",
+          "en": "Respiratory",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "O carminativo de semente mais suave e confiável: dissolve gases e distensão e relaxa a cólica. Tradicionalmente também usado para tosse e para estimular a produção de leite.",
+        "de": "Das sanfteste und zuverlässigste Samen-Karminativum: löst Blähungen und Spannungsgefühl, entspannt Krämpfe. Traditionell auch bei Husten und zur Anregung der Milchbildung.",
+        "en": "The gentlest, most reliable seed carminative: it clears gas and bloating and relaxes cramping. Traditionally also used for cough and to stimulate milk production."
+      },
+      "preparo": {
+        "pt": "1 col. de chá de sementes amassadas por xícara, infusão tampada 8 min.",
+        "de": "1 TL zerstoßene Samen pro Tasse, zugedeckt 8 Min. ziehen.",
+        "en": "1 tsp crushed seeds per cup, covered infusion 8 min."
+      },
+      "avisos": {
+        "pt": "Muito seguro.",
+        "de": "Sehr sicher.",
+        "en": "Very safe."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "alcaravia",
+      "nome": "Alcaravia",
+      "nome_de": "Kümmel",
+      "nome_en": "Caraway",
+      "nome_cientifico": "Carum carvi",
+      "categorias": [
+        "digestao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Gases e inchaço",
+          "de": "Blähungen",
+          "en": "Gas & bloating",
+          "nota": 8
+        },
+        {
+          "pt": "Antiespasmódico",
+          "de": "Krampflösend",
+          "en": "Antispasmodic",
+          "nota": 7
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 7
+        },
+        {
+          "pt": "Antimicrobiano",
+          "de": "Antimikrobiell",
+          "en": "Antimicrobial",
+          "nota": 4
+        }
+      ],
+      "descricao": {
+        "pt": "Prima do funcho, igualmente eficaz contra gases e cólicas — é a semente 'sobressalente' do seu kit de digestão. Note que Kümmel é alcaravia, não cominho (Kreuzkümmel).",
+        "de": "Verwandt mit Fenchel, ebenso wirksam gegen Blähungen und Krämpfe — der 'Ersatz'-Samen Ihres Verdauungskits. Achtung: Kümmel ist nicht Kreuzkümmel.",
+        "en": "A cousin of fennel, equally effective against gas and cramps — the 'spare' seed of your digestion kit. Note: Kümmel is caraway, not cumin (Kreuzkümmel)."
+      },
+      "preparo": {
+        "pt": "Sementes amassadas, infusão tampada 8 min.",
+        "de": "Zerstoßene Samen, zugedeckt 8 Min. ziehen.",
+        "en": "Crushed seeds, covered infusion 8 min."
+      },
+      "avisos": {
+        "pt": "Muito seguro.",
+        "de": "Sehr sicher.",
+        "en": "Very safe."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "hortela-pimenta",
+      "nome": "Hortelã-pimenta",
+      "nome_de": "Pfefferminze",
+      "nome_en": "Peppermint",
+      "nome_cientifico": "Mentha × piperita",
+      "categorias": [
+        "digestao",
+        "respiratorio",
+        "enxaqueca"
+      ],
+      "funcoes": [
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 8
+        },
+        {
+          "pt": "Náusea",
+          "de": "Übelkeit",
+          "en": "Nausea",
+          "nota": 7
+        },
+        {
+          "pt": "Antiespasmódico",
+          "de": "Krampflösend",
+          "en": "Antispasmodic",
+          "nota": 6
+        },
+        {
+          "pt": "Respiratório",
+          "de": "Atemwege",
+          "en": "Respiratory",
+          "nota": 6
+        }
+      ],
+      "descricao": {
+        "pt": "Relaxa a musculatura do trato digestivo e alivia náusea; o mentol também abre as vias respiratórias. Para cefaleia tensional, o óleo nas têmporas funciona melhor que o chá.",
+        "de": "Entspannt die Muskulatur des Verdauungstrakts und lindert Übelkeit; Menthol öffnet zudem die Atemwege. Bei Spannungskopfschmerz wirkt das Öl an den Schläfen besser als der Tee.",
+        "en": "Relaxes the digestive-tract muscles and eases nausea; the menthol also opens the airways. For tension headache, the oil on the temples works better than the tea."
+      },
+      "preparo": {
+        "pt": "Infusão tampada 5–8 min.",
+        "de": "Zugedeckt 5–8 Min. ziehen.",
+        "en": "Covered infusion 5–8 min."
+      },
+      "avisos": {
+        "pt": "Relaxa o esfíncter do estômago — evite em refluxo/azia forte.",
+        "de": "Entspannt den Magenschließmuskel — bei Reflux/Sodbrennen meiden.",
+        "en": "Relaxes the stomach sphincter — avoid with strong reflux/heartburn."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "hortela",
+      "nome": "Hortelã",
+      "nome_de": "Minze",
+      "nome_en": "Mint",
+      "nome_cientifico": "Mentha spicata",
+      "categorias": [
+        "digestao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 7
+        },
+        {
+          "pt": "Náusea",
+          "de": "Übelkeit",
+          "en": "Nausea",
+          "nota": 6
+        },
+        {
+          "pt": "Aromático",
+          "de": "Aromatisch",
+          "en": "Aromatic",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "Versão mais suave da hortelã-pimenta: mesmo efeito digestivo e refrescante, com menos mentol. Se você tem as duas, a hortelã-pimenta cobre isto com vantagem.",
+        "de": "Mildere Version der Pfefferminze: gleiche verdauungsfördernde, erfrischende Wirkung, weniger Menthol. Wenn Sie beide haben, deckt die Pfefferminze dies stärker ab.",
+        "en": "A milder version of peppermint: the same digestive, refreshing effect with less menthol. If you have both, peppermint covers this more strongly."
+      },
+      "preparo": {
+        "pt": "Infusão tampada 5 min.",
+        "de": "Zugedeckt 5 Min. ziehen.",
+        "en": "Covered infusion 5 min."
+      },
+      "avisos": {
+        "pt": "Muito segura.",
+        "de": "Sehr sicher.",
+        "en": "Very safe."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "camomila",
+      "nome": "Camomila",
+      "nome_de": "Kamille",
+      "nome_en": "Chamomile",
+      "nome_cientifico": "Matricaria chamomilla",
+      "categorias": [
+        "digestao",
+        "sono",
+        "menstruacao",
+        "nervoso"
+      ],
+      "funcoes": [
+        {
+          "pt": "Calmante",
+          "de": "Beruhigend",
+          "en": "Calming",
+          "nota": 7
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 8
+        },
+        {
+          "pt": "Antiespasmódico",
+          "de": "Krampflösend",
+          "en": "Antispasmodic",
+          "nota": 7
+        },
+        {
+          "pt": "Anti-inflamatório",
+          "de": "Entzündungshemmend",
+          "en": "Anti-inflammatory",
+          "nota": 6
+        }
+      ],
+      "descricao": {
+        "pt": "Um dos coringas do herbário: acalma a inflamação da mucosa digestiva, solta a cólica e relaxa o sistema nervoso o suficiente para ajudar no sono. Suave e versátil.",
+        "de": "Ein Allrounder des Herbariums: beruhigt entzündete Verdauungsschleimhaut, löst Krämpfe und entspannt das Nervensystem genug, um den Schlaf zu fördern. Sanft und vielseitig.",
+        "en": "One of the herbarium's all-rounders: it calms inflamed digestive mucosa, releases cramping, and relaxes the nervous system enough to aid sleep. Gentle and versatile."
+      },
+      "preparo": {
+        "pt": "Infusão tampada 8 min; boa à noite.",
+        "de": "Zugedeckt 8 Min. ziehen; gut am Abend.",
+        "en": "Covered infusion 8 min; good at night."
+      },
+      "avisos": {
+        "pt": "Rara alergia em pessoas sensíveis a Asteraceae.",
+        "de": "Selten Allergie bei Korbblütler-Empfindlichkeit.",
+        "en": "Rare allergy in people sensitive to Asteraceae."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "macela",
+      "nome": "Macela",
+      "nome_de": "Marcela",
+      "nome_en": "Marcela",
+      "nome_cientifico": "Achyrocline satureioides",
+      "categorias": [
+        "digestao",
+        "sono"
+      ],
+      "funcoes": [
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 7
+        },
+        {
+          "pt": "Calmante",
+          "de": "Beruhigend",
+          "en": "Calming",
+          "nota": 6
+        },
+        {
+          "pt": "Antiespasmódico",
+          "de": "Krampflösend",
+          "en": "Antispasmodic",
+          "nota": 6
+        }
+      ],
+      "descricao": {
+        "pt": "Erva brasileira parecida com a camomila (as duas Asteraceae): digestiva, calmante e antiespasmódica. Excelente para estômago tenso, mas funcionalmente redundante com a camomila.",
+        "de": "Brasilianisches Kraut, der Kamille ähnlich (beide Korbblütler): verdauungsfördernd, beruhigend, krampflösend. Sehr gut bei nervösem Magen, aber funktionell redundant zur Kamille.",
+        "en": "A Brazilian herb similar to chamomile (both Asteraceae): digestive, calming and antispasmodic. Excellent for a tense stomach, but functionally redundant with chamomile."
+      },
+      "preparo": {
+        "pt": "Infusão tampada 8 min.",
+        "de": "Zugedeckt 8 Min. ziehen.",
+        "en": "Covered infusion 8 min."
+      },
+      "avisos": {
+        "pt": "Segura; cautela em gravidez por falta de estudos.",
+        "de": "Sicher; in der Schwangerschaft mangels Studien vorsichtig.",
+        "en": "Safe; caution in pregnancy due to lack of studies."
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "boldo",
+      "nome": "Boldo",
+      "nome_de": "Boldo",
+      "nome_en": "Boldo",
+      "nome_cientifico": "Peumus boldus",
+      "categorias": [
+        "digestao",
+        "limpeza"
+      ],
+      "funcoes": [
+        {
+          "pt": "Fígado",
+          "de": "Leber",
+          "en": "Liver",
+          "nota": 8
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 8
+        },
+        {
+          "pt": "Fluxo de bile",
+          "de": "Gallenfluss",
+          "en": "Bile flow",
+          "nota": 7
+        },
+        {
+          "pt": "Antiespasmódico",
+          "de": "Krampflösend",
+          "en": "Antispasmodic",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "O amargo hepático clássico: estimula fígado e fluxo de bile, ideal quando o incômodo é 'peso' de refeição gordurosa. Útil no seu caso sem vesícula, mas contém ascaridol e não deve ser uso prolongado.",
+        "de": "Der klassische Leber-Bitterstoff: regt Leber und Gallenfluss an, ideal beim 'Völlegefühl' nach fettem Essen. Nützlich bei fehlender Gallenblase, enthält aber Ascaridol — nicht dauerhaft anwenden.",
+        "en": "The classic liver bitter: it stimulates liver and bile flow, ideal when the discomfort is the 'heaviness' of a fatty meal. Useful in your no-gallbladder case, but it contains ascaridole and shouldn't be used long-term."
+      },
+      "preparo": {
+        "pt": "Infusão 5 min, ~15 min antes das refeições.",
+        "de": "5 Min. ziehen, ca. 15 Min. vor dem Essen.",
+        "en": "Infuse 5 min, ~15 min before meals."
+      },
+      "avisos": {
+        "pt": "Evitar gravidez, obstrução biliar e uso prolongado.",
+        "de": "Schwangerschaft, Gallenverschluss und Dauergebrauch meiden.",
+        "en": "Avoid in pregnancy, bile obstruction and prolonged use."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "carqueja",
+      "nome": "Carqueja",
+      "nome_de": "Carqueja",
+      "nome_en": "Carqueja",
+      "nome_cientifico": "Baccharis trimera",
+      "categorias": [
+        "limpeza",
+        "digestao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Fígado",
+          "de": "Leber",
+          "en": "Liver",
+          "nota": 8
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 7
+        },
+        {
+          "pt": "Glicemia",
+          "de": "Blutzucker",
+          "en": "Blood sugar",
+          "nota": 6
+        },
+        {
+          "pt": "Antimicrobiano",
+          "de": "Antimikrobiell",
+          "en": "Antimicrobial",
+          "nota": 4
+        }
+      ],
+      "descricao": {
+        "pt": "Amargo hepático e digestivo que também ajuda a baixar a glicemia. Um dos pilares de qualquer blend de 'limpeza' (apoio ao fígado), mas o gosto é acentuadamente amargo.",
+        "de": "Bitterer Leber- und Verdauungshelfer, der auch den Blutzucker senkt. Eine Säule jeder 'Reinigungs'-Mischung (Leberunterstützung), aber deutlich bitter im Geschmack.",
+        "en": "A bitter liver and digestive herb that also helps lower blood sugar. A pillar of any 'cleanse' blend (liver support), though markedly bitter in taste."
+      },
+      "preparo": {
+        "pt": "Decocção leve 5–10 min.",
+        "de": "Leichter Absud 5–10 Min.",
+        "en": "Light decoction 5–10 min."
+      },
+      "avisos": {
+        "pt": "Baixa glicemia e pressão — atenção se diabético/hipotenso.",
+        "de": "Senkt Blutzucker und Blutdruck — Vorsicht bei Diabetes/niedrigem Druck.",
+        "en": "Lowers blood sugar and pressure — caution if diabetic/hypotensive."
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "dente-leao-raiz",
+      "nome": "Raiz de dente-de-leão",
+      "nome_de": "Löwenzahnwurzel",
+      "nome_en": "Dandelion root",
+      "nome_cientifico": "Taraxacum officinale",
+      "categorias": [
+        "limpeza",
+        "digestao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Fígado",
+          "de": "Leber",
+          "en": "Liver",
+          "nota": 7
+        },
+        {
+          "pt": "Diurético",
+          "de": "Harntreibend",
+          "en": "Diuretic",
+          "nota": 7
+        },
+        {
+          "pt": "Fluxo de bile",
+          "de": "Gallenfluss",
+          "en": "Bile flow",
+          "nota": 6
+        },
+        {
+          "pt": "Prebiótico",
+          "de": "Präbiotisch",
+          "en": "Prebiotic",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "A erva de 'limpeza' mais completa que você tem: une fígado (colerético) e rim (diurético) num só, com inulina que alimenta a flora intestinal. Amarga, no bom sentido.",
+        "de": "Das vollständigste 'Reinigungs'-Kraut in Ihrem Bestand: verbindet Leber (choleretisch) und Niere (harntreibend) in einem, mit Inulin für die Darmflora. Bitter, im guten Sinne.",
+        "en": "The most complete 'cleanse' herb you have: it unites liver (choleretic) and kidney (diuretic) in one, with inulin that feeds gut flora. Bitter, in the good sense."
+      },
+      "preparo": {
+        "pt": "Decocção da raiz, ferver 10 min.",
+        "de": "Wurzel-Absud, 10 Min. kochen.",
+        "en": "Root decoction, boil 10 min."
+      },
+      "avisos": {
+        "pt": "Evitar em obstrução biliar; diurético leve.",
+        "de": "Bei Gallenverschluss meiden; leicht harntreibend.",
+        "en": "Avoid with bile obstruction; mild diuretic."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "dente-leao-folha",
+      "nome": "Folha de dente-de-leão",
+      "nome_de": "Löwenzahnblätter",
+      "nome_en": "Dandelion leaf",
+      "nome_cientifico": "Taraxacum officinale",
+      "categorias": [
+        "limpeza"
+      ],
+      "funcoes": [
+        {
+          "pt": "Diurético",
+          "de": "Harntreibend",
+          "en": "Diuretic",
+          "nota": 7
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 5
+        },
+        {
+          "pt": "Nutritivo",
+          "de": "Nährstoffreich",
+          "en": "Nutritional",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "Diurético rico em potássio (raro: repõe o mineral que outros diuréticos tiram) e amargo digestivo leve. A raiz é mais completa; a folha brilha só como diurético.",
+        "de": "Kaliumreiches Diuretikum (selten: ersetzt das Mineral, das andere Entwässerer entziehen) und milder Verdauungsbitterstoff. Die Wurzel ist vollständiger; das Blatt glänzt nur als Diuretikum.",
+        "en": "A potassium-rich diuretic (rare: it replaces the mineral other diuretics remove) and a mild digestive bitter. The root is more complete; the leaf shines only as a diuretic."
+      },
+      "preparo": {
+        "pt": "Infusão 5–8 min.",
+        "de": "5–8 Min. ziehen.",
+        "en": "Infuse 5–8 min."
+      },
+      "avisos": {
+        "pt": "Diurético; separe de outros diuréticos.",
+        "de": "Harntreibend; von anderen Entwässerern trennen.",
+        "en": "Diuretic; separate from other diuretics."
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "cardo-mariano",
+      "nome": "Cardo-mariano",
+      "nome_de": "Mariendistel",
+      "nome_en": "Milk thistle",
+      "nome_cientifico": "Silybum marianum",
+      "categorias": [
+        "limpeza"
+      ],
+      "funcoes": [
+        {
+          "pt": "Fígado",
+          "de": "Leber",
+          "en": "Liver",
+          "nota": 7
+        },
+        {
+          "pt": "Antioxidante",
+          "de": "Antioxidativ",
+          "en": "Antioxidant",
+          "nota": 6
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 4
+        }
+      ],
+      "descricao": {
+        "pt": "O protetor do fígado por excelência (silimarina), com evidência para regeneração hepática. Ressalva honesta: a silimarina é pouco solúvel em água — em chá rende pouco; extrato/tintura rende muito mais.",
+        "de": "Der Leberschutz schlechthin (Silymarin), mit Belegen zur Leberregeneration. Ehrlicher Hinweis: Silymarin ist kaum wasserlöslich — im Tee schwach; Extrakt/Tinktur deutlich stärker.",
+        "en": "The liver protector par excellence (silymarin), with evidence for liver regeneration. Honest caveat: silymarin is poorly water-soluble — weak as a tea; extract/tincture is far stronger."
+      },
+      "preparo": {
+        "pt": "Sementes amassadas em decocção; melhor como extrato.",
+        "de": "Zerstoßene Samen als Absud; besser als Extrakt.",
+        "en": "Crushed seeds as decoction; better as an extract."
+      },
+      "avisos": {
+        "pt": "Afeta enzimas hepáticas (CYP) — interações medicamentosas.",
+        "de": "Beeinflusst Leberenzyme (CYP) — Arzneimittelwechselwirkungen.",
+        "en": "Affects liver enzymes (CYP) — drug interactions."
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "cavalinha",
+      "nome": "Cavalinha",
+      "nome_de": "Schachtelhalm",
+      "nome_en": "Horsetail",
+      "nome_cientifico": "Equisetum arvense",
+      "categorias": [
+        "limpeza"
+      ],
+      "funcoes": [
+        {
+          "pt": "Diurético",
+          "de": "Harntreibend",
+          "en": "Diuretic",
+          "nota": 9
+        },
+        {
+          "pt": "Remineralizante",
+          "de": "Mineralisierend",
+          "en": "Remineralizing",
+          "nota": 8
+        },
+        {
+          "pt": "Cicatrização",
+          "de": "Wundheilung",
+          "en": "Wound healing",
+          "nota": 5
+        },
+        {
+          "pt": "Articulações",
+          "de": "Gelenke",
+          "en": "Joints",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "Diurético potente e remineralizante rico em sílica, útil para unhas, cabelo e tecido conjuntivo. Base de qualquer protocolo de eliminação de líquido — mas não para uso contínuo.",
+        "de": "Starkes Diuretikum und kieselsäurereicher Mineralstofflieferant, gut für Nägel, Haar und Bindegewebe. Basis jeder Entwässerungskur — aber nicht zur Daueranwendung.",
+        "en": "A potent diuretic and silica-rich remineralizer, useful for nails, hair and connective tissue. The base of any fluid-elimination protocol — but not for continuous use."
+      },
+      "preparo": {
+        "pt": "Decocção 10–15 min para extrair a sílica.",
+        "de": "10–15 Min. kochen, um Kieselsäure zu lösen.",
+        "en": "Decoct 10–15 min to extract the silica."
+      },
+      "avisos": {
+        "pt": "Uso prolongado mexe com tiamina e potássio.",
+        "de": "Dauergebrauch beeinflusst Thiamin und Kalium.",
+        "en": "Prolonged use affects thiamine and potassium."
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "urtiga",
+      "nome": "Urtiga",
+      "nome_de": "Brennnessel",
+      "nome_en": "Nettle",
+      "nome_cientifico": "Urtica dioica",
+      "categorias": [
+        "limpeza",
+        "dores"
+      ],
+      "funcoes": [
+        {
+          "pt": "Remineralizante",
+          "de": "Mineralisierend",
+          "en": "Remineralizing",
+          "nota": 8
+        },
+        {
+          "pt": "Diurético",
+          "de": "Harntreibend",
+          "en": "Diuretic",
+          "nota": 7
+        },
+        {
+          "pt": "Articulações",
+          "de": "Gelenke",
+          "en": "Joints",
+          "nota": 6
+        },
+        {
+          "pt": "Imunidade",
+          "de": "Immunsystem",
+          "en": "Immune support",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "Um tônico nutritivo em forma de erva: remineraliza (ferro, magnésio) enquanto elimina líquido, e ajuda articulações e rinite alérgica. Depura repondo, em vez de só esvaziar.",
+        "de": "Ein nährendes Tonikum als Kraut: remineralisiert (Eisen, Magnesium) und entwässert zugleich, hilft bei Gelenken und allergischem Schnupfen. Reinigt, indem es auffüllt statt nur entleert.",
+        "en": "A nourishing tonic in herb form: it remineralizes (iron, magnesium) while eliminating fluid, and helps joints and allergic rhinitis. It depurates by replenishing rather than just emptying."
+      },
+      "preparo": {
+        "pt": "Infusão 8–10 min.",
+        "de": "8–10 Min. ziehen.",
+        "en": "Infuse 8–10 min."
+      },
+      "avisos": {
+        "pt": "Diurético; cautela com medicação para pressão.",
+        "de": "Harntreibend; Vorsicht mit Blutdruckmitteln.",
+        "en": "Diuretic; caution with blood-pressure medication."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "garra-diabo",
+      "nome": "Garra-do-diabo",
+      "nome_de": "Teufelskralle",
+      "nome_en": "Devil's claw",
+      "nome_cientifico": "Harpagophytum procumbens",
+      "categorias": [
+        "dores"
+      ],
+      "funcoes": [
+        {
+          "pt": "Alívio da dor",
+          "de": "Schmerzlinderung",
+          "en": "Pain relief",
+          "nota": 9
+        },
+        {
+          "pt": "Anti-inflamatório",
+          "de": "Entzündungshemmend",
+          "en": "Anti-inflammatory",
+          "nota": 7
+        },
+        {
+          "pt": "Articulações",
+          "de": "Gelenke",
+          "en": "Joints",
+          "nota": 7
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 4
+        }
+      ],
+      "descricao": {
+        "pt": "A melhor opção do seu estoque para dor musculoesquelética — a evidência é justamente para dor lombar e artrose. Ação de fundo: aparece com uso regular, não na hora.",
+        "de": "Die beste Wahl in Ihrem Bestand bei Muskel-Skelett-Schmerz — die Belege betreffen gerade Rückenschmerz und Arthrose. Wirkt grundlegend: mit regelmäßigem Gebrauch, nicht sofort.",
+        "en": "The best option in your stock for musculoskeletal pain — the evidence is precisely for lower-back pain and osteoarthritis. A baseline effect: it shows with regular use, not instantly."
+      },
+      "preparo": {
+        "pt": "Decocção 10 min; uso regular por dias/semanas.",
+        "de": "10 Min. kochen; regelmäßig über Tage/Wochen.",
+        "en": "Decoct 10 min; regular use over days/weeks."
+      },
+      "avisos": {
+        "pt": "Evitar com gastrite/úlcera e anticoagulantes.",
+        "de": "Bei Gastritis/Geschwür und Blutverdünnern meiden.",
+        "en": "Avoid with gastritis/ulcer and blood thinners."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "tanaceto",
+      "nome": "Tanaceto",
+      "nome_de": "Mutterkraut",
+      "nome_en": "Feverfew",
+      "nome_cientifico": "Tanacetum parthenium",
+      "categorias": [
+        "enxaqueca",
+        "menstruacao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Enxaqueca (prevenção)",
+          "de": "Migräne (Prophylaxe)",
+          "en": "Migraine (prevention)",
+          "nota": 8
+        },
+        {
+          "pt": "Anti-inflamatório",
+          "de": "Entzündungshemmend",
+          "en": "Anti-inflammatory",
+          "nota": 5
+        },
+        {
+          "pt": "Regulação menstrual",
+          "de": "Menstruation",
+          "en": "Menstrual",
+          "nota": 4
+        }
+      ],
+      "descricao": {
+        "pt": "A erva de referência para PREVENÇÃO de enxaqueca: uso contínuo reduz a frequência das crises. Não serve para cortar a crise já instalada — é profilaxia, não analgésico.",
+        "de": "Das Referenzkraut zur MIGRÄNE-Prophylaxe: dauerhafte Einnahme senkt die Anfallshäufigkeit. Nicht zum Abbrechen eines laufenden Anfalls — Vorbeugung, kein Schmerzmittel.",
+        "en": "The reference herb for migraine PREVENTION: continuous use reduces attack frequency. It won't abort an attack in progress — it's prophylaxis, not an analgesic."
+      },
+      "preparo": {
+        "pt": "Diário, por semanas, como profilaxia.",
+        "de": "Täglich über Wochen, als Prophylaxe.",
+        "en": "Daily for weeks, as prophylaxis."
+      },
+      "avisos": {
+        "pt": "Não na gravidez; interage com anticoagulantes.",
+        "de": "Nicht in der Schwangerschaft; Wechselwirkung mit Blutverdünnern.",
+        "en": "Not in pregnancy; interacts with blood thinners."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "cha-verde",
+      "nome": "Erva-mate",
+      "nome_de": "Mate",
+      "nome_en": "Yerba mate",
+      "nome_cientifico": "Ilex paraguariensis",
+      "categorias": [
+        "nervoso"
+      ],
+      "funcoes": [
+        {
+          "pt": "Energia",
+          "de": "Energie",
+          "en": "Energy",
+          "nota": 8
+        },
+        {
+          "pt": "Foco e memória",
+          "de": "Fokus & Gedächtnis",
+          "en": "Focus & memory",
+          "nota": 7
+        },
+        {
+          "pt": "Termogênico",
+          "de": "Wärmend",
+          "en": "Thermogenic",
+          "nota": 6
+        },
+        {
+          "pt": "Diurético",
+          "de": "Harntreibend",
+          "en": "Diuretic",
+          "nota": 4
+        }
+      ],
+      "descricao": {
+        "pt": "Estimulante rico em cafeína e antioxidantes: dá energia e foco mais sustentados que o café, com efeito termogênico leve. É o oposto de um calmante — lugar dele é a manhã.",
+        "de": "Koffein- und antioxidantienreicher Wachmacher: liefert länger anhaltende Energie und Fokus als Kaffee, mit leicht wärmender Wirkung. Das Gegenteil eines Beruhigungsmittels — sein Platz ist der Morgen.",
+        "en": "A caffeine- and antioxidant-rich stimulant: it gives more sustained energy and focus than coffee, with a mild thermogenic effect. The opposite of a calmative — its place is the morning."
+      },
+      "preparo": {
+        "pt": "Água quente (não fervente) 70–80°C.",
+        "de": "Heißes (nicht kochendes) Wasser, 70–80 °C.",
+        "en": "Hot (not boiling) water, 70–80 °C."
+      },
+      "avisos": {
+        "pt": "Cafeína: evitar à noite e em excesso.",
+        "de": "Koffein: abends und im Übermaß meiden.",
+        "en": "Caffeine: avoid at night and in excess."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "alecrim",
+      "nome": "Alecrim",
+      "nome_de": "Rosmarin",
+      "nome_en": "Rosemary",
+      "nome_cientifico": "Salvia rosmarinus",
+      "categorias": [
+        "nervoso",
+        "digestao",
+        "terceiro_olho",
+        "cardiovascular"
+      ],
+      "funcoes": [
+        {
+          "pt": "Foco e memória",
+          "de": "Fokus & Gedächtnis",
+          "en": "Focus & memory",
+          "nota": 6
+        },
+        {
+          "pt": "Circulação",
+          "de": "Kreislauf",
+          "en": "Circulation",
+          "nota": 6
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 6
+        },
+        {
+          "pt": "Antioxidante",
+          "de": "Antioxidativ",
+          "en": "Antioxidant",
+          "nota": 6
+        }
+      ],
+      "descricao": {
+        "pt": "Estimula circulação e clareza mental (há estudos ligando o aroma à memória), além de ajudar a digestão de gorduras. Na tradição, erva de purificação e foco — útil antes da meditação.",
+        "de": "Fördert Kreislauf und geistige Klarheit (Studien verbinden den Duft mit Gedächtnis) und hilft bei der Fettverdauung. Traditionell ein Kraut der Reinigung und des Fokus — gut vor der Meditation.",
+        "en": "It boosts circulation and mental clarity (studies link the aroma to memory) and aids fat digestion. Traditionally a herb of purification and focus — useful before meditation."
+      },
+      "preparo": {
+        "pt": "Infusão tampada 5–8 min.",
+        "de": "Zugedeckt 5–8 Min. ziehen.",
+        "en": "Covered infusion 5–8 min."
+      },
+      "avisos": {
+        "pt": "Dose alta: cautela em epilepsia e gravidez.",
+        "de": "Hohe Dosis: Vorsicht bei Epilepsie und Schwangerschaft.",
+        "en": "High dose: caution in epilepsy and pregnancy."
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "lavanda",
+      "nome": "Lavanda",
+      "nome_de": "Lavendel",
+      "nome_en": "Lavender",
+      "nome_cientifico": "Lavandula angustifolia",
+      "categorias": [
+        "sono",
+        "nervoso",
+        "terceiro_olho"
+      ],
+      "funcoes": [
+        {
+          "pt": "Ansiedade",
+          "de": "Angst",
+          "en": "Anxiety",
+          "nota": 8
+        },
+        {
+          "pt": "Sono",
+          "de": "Schlaf",
+          "en": "Sleep",
+          "nota": 7
+        },
+        {
+          "pt": "Humor",
+          "de": "Stimmung",
+          "en": "Mood",
+          "nota": 6
+        },
+        {
+          "pt": "Antiespasmódico",
+          "de": "Krampflösend",
+          "en": "Antispasmodic",
+          "nota": 4
+        }
+      ],
+      "descricao": {
+        "pt": "O calmante mais confiável do herbário: reduz ansiedade e ajuda a iniciar o sono, com evidência clínica real (inclusive o extrato oral padronizado). É a ponte entre o físico e o ritual.",
+        "de": "Das zuverlässigste Beruhigungskraut: senkt Angst und erleichtert das Einschlafen, mit echter klinischer Evidenz (auch der standardisierte Oralextrakt). Die Brücke zwischen Körper und Ritual.",
+        "en": "The most reliable calmative in the herbarium: it lowers anxiety and helps initiate sleep, with genuine clinical evidence (including the standardized oral extract). The bridge between the physical and the ritual."
+      },
+      "preparo": {
+        "pt": "Infusão tampada 5 min; o capim-limão suaviza o sabor.",
+        "de": "Zugedeckt 5 Min. ziehen; Zitronengras mildert den Geschmack.",
+        "en": "Covered infusion 5 min; lemongrass softens the taste."
+      },
+      "avisos": {
+        "pt": "Muito segura.",
+        "de": "Sehr sicher.",
+        "en": "Very safe."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "capim-limao",
+      "nome": "Capim-limão",
+      "nome_de": "Zitronengras",
+      "nome_en": "Lemongrass",
+      "nome_cientifico": "Cymbopogon citratus",
+      "categorias": [
+        "sono",
+        "digestao",
+        "nervoso"
+      ],
+      "funcoes": [
+        {
+          "pt": "Calmante",
+          "de": "Beruhigend",
+          "en": "Calming",
+          "nota": 6
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 6
+        },
+        {
+          "pt": "Antiespasmódico",
+          "de": "Krampflösend",
+          "en": "Antispasmodic",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "Calmante leve e digestivo, com sabor cítrico que melhora qualquer blend de noite. Sozinho é modesto; brilha como coadjuvante que torna a lavanda e a camomila mais agradáveis.",
+        "de": "Mildes Beruhigungs- und Verdauungskraut mit zitrigem Geschmack, das jede Abendmischung aufwertet. Allein bescheiden; glänzt als Begleiter, der Lavendel und Kamille angenehmer macht.",
+        "en": "A mild calmative and digestive with a citrusy taste that improves any evening blend. On its own it's modest; it shines as a companion that makes lavender and chamomile more pleasant."
+      },
+      "preparo": {
+        "pt": "Infusão 5–8 min.",
+        "de": "5–8 Min. ziehen.",
+        "en": "Infuse 5–8 min."
+      },
+      "avisos": {
+        "pt": "Muito seguro.",
+        "de": "Sehr sicher.",
+        "en": "Very safe."
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "alquemila",
+      "nome": "Alquemila",
+      "nome_de": "Frauenmantel",
+      "nome_en": "Lady's mantle",
+      "nome_cientifico": "Alchemilla vulgaris",
+      "categorias": [
+        "menstruacao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Regulação menstrual",
+          "de": "Menstruation",
+          "en": "Menstrual",
+          "nota": 8
+        },
+        {
+          "pt": "Antiespasmódico",
+          "de": "Krampflösend",
+          "en": "Antispasmodic",
+          "nota": 5
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "A erva feminina europeia por excelência: adstringente que ajuda a regular o ciclo e a conter fluxo intenso. Pode ser usada ao longo do mês, não só nos dias de sangramento.",
+        "de": "Das europäische Frauenkraut schlechthin: adstringierend, hilft den Zyklus zu regulieren und starke Blutung zu bremsen. Kann über den Monat verwendet werden, nicht nur an Blutungstagen.",
+        "en": "The quintessential European women's herb: an astringent that helps regulate the cycle and curb heavy flow. It can be used throughout the month, not only on bleeding days."
+      },
+      "preparo": {
+        "pt": "Infusão 8 min, 1–2x ao dia.",
+        "de": "8 Min. ziehen, 1–2×/Tag.",
+        "en": "Infuse 8 min, 1–2×/day."
+      },
+      "avisos": {
+        "pt": "Evitar na gravidez.",
+        "de": "In der Schwangerschaft meiden.",
+        "en": "Avoid in pregnancy."
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "artemisia-vulgaris",
+      "nome": "Artemísia comum",
+      "nome_de": "Beifuß",
+      "nome_en": "Mugwort",
+      "nome_cientifico": "Artemisia vulgaris",
+      "categorias": [
+        "menstruacao",
+        "terceiro_olho",
+        "digestao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Emenagogo",
+          "de": "Emmenagog",
+          "en": "Emmenagogue",
+          "nota": 7
+        },
+        {
+          "pt": "Uso ritual",
+          "de": "Ritueller Gebrauch",
+          "en": "Ritual use",
+          "nota": 8
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 6
+        }
+      ],
+      "descricao": {
+        "pt": "Amargo digestivo e emenagogo que estimula o ciclo. É a erva ocidental do sonho e da visão — ligada tradicionalmente ao trabalho onírico e à percepção sutil (uso simbólico, sem comprovação clínica).",
+        "de": "Verdauungsbitterstoff und Emmenagog, der den Zyklus anregt. Das westliche Kraut des Traums und der Vision — traditionell mit Traumarbeit und feiner Wahrnehmung verbunden (symbolisch, ohne klinischen Beleg).",
+        "en": "A digestive bitter and emmenagogue that stimulates the cycle. It's the Western herb of dream and vision — traditionally tied to dream work and subtle perception (symbolic use, no clinical proof)."
+      },
+      "preparo": {
+        "pt": "Infusão 5 min; à noite para trabalho onírico.",
+        "de": "5 Min. ziehen; abends für Traumarbeit.",
+        "en": "Infuse 5 min; at night for dream work."
+      },
+      "avisos": {
+        "pt": "Emenagogo — não na gravidez.",
+        "de": "Emmenagog — nicht in der Schwangerschaft.",
+        "en": "Emmenagogue — not in pregnancy."
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "artemisia-annua",
+      "nome": "Artemísia anual",
+      "nome_de": "Einjähriger Beifuß",
+      "nome_en": "Sweet wormwood",
+      "nome_cientifico": "Artemisia annua",
+      "categorias": [
+        "imunidade"
+      ],
+      "funcoes": [
+        {
+          "pt": "Antimicrobiano",
+          "de": "Antimikrobiell",
+          "en": "Antimicrobial",
+          "nota": 8
+        },
+        {
+          "pt": "Imunidade",
+          "de": "Immunsystem",
+          "en": "Immune support",
+          "nota": 5
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 4
+        }
+      ],
+      "descricao": {
+        "pt": "Fonte da artemisinina, com longa tradição antiparasitária e de suporte imune. Importante: não deve ser autoadministrada como tratamento de malária — risco de resistência. Use em ciclos curtos.",
+        "de": "Quelle von Artemisinin, mit langer Tradition als Antiparasitikum und Immunhilfe. Wichtig: nicht zur Malaria-Selbstbehandlung — Resistenzgefahr. In kurzen Zyklen anwenden.",
+        "en": "The source of artemisinin, with a long antiparasitic and immune-support tradition. Important: it must not be self-administered to treat malaria — resistance risk. Use in short cycles."
+      },
+      "preparo": {
+        "pt": "Infusão 5–10 min; ciclos curtos, rotacionar.",
+        "de": "5–10 Min. ziehen; kurze Zyklen, rotieren.",
+        "en": "Infuse 5–10 min; short cycles, rotate."
+      },
+      "avisos": {
+        "pt": "Não como antimalárico; evitar gravidez.",
+        "de": "Nicht als Malariamittel; Schwangerschaft meiden.",
+        "en": "Not as an antimalarial; avoid pregnancy."
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "aroeira",
+      "nome": "Aroeira",
+      "nome_de": "Brasilianischer Pfefferbaum",
+      "nome_en": "Brazilian peppertree",
+      "nome_cientifico": "Schinus terebinthifolia",
+      "categorias": [
+        "digestao",
+        "imunidade"
+      ],
+      "funcoes": [
+        {
+          "pt": "Mucosa gástrica",
+          "de": "Magenschleimhaut",
+          "en": "Gut mucosa",
+          "nota": 7
+        },
+        {
+          "pt": "Cicatrização",
+          "de": "Wundheilung",
+          "en": "Wound healing",
+          "nota": 7
+        },
+        {
+          "pt": "Antimicrobiano",
+          "de": "Antimikrobiell",
+          "en": "Antimicrobial",
+          "nota": 6
+        },
+        {
+          "pt": "Anti-inflamatório",
+          "de": "Entzündungshemmend",
+          "en": "Anti-inflammatory",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "Casca brasileira com forte tradição para gastrite e cicatrização de mucosa, além de ação antimicrobiana. Difícil de achar na Europa; parente do caju e da manga.",
+        "de": "Brasilianische Rinde mit starker Tradition bei Gastritis und Schleimhautheilung, dazu antimikrobiell. In Europa schwer erhältlich; verwandt mit Cashew und Mango.",
+        "en": "A Brazilian bark with a strong tradition for gastritis and mucosa healing, plus antimicrobial action. Hard to find in Europe; related to cashew and mango."
+      },
+      "preparo": {
+        "pt": "Decocção da casca 10 min.",
+        "de": "Rinden-Absud 10 Min.",
+        "en": "Bark decoction 10 min."
+      },
+      "avisos": {
+        "pt": "Alergia à família do caju/manga; uso interno moderado.",
+        "de": "Allergie gegen Cashew/Mango-Familie; innerlich mäßig.",
+        "en": "Cashew/mango-family allergy; moderate internal use."
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "alcacuz",
+      "nome": "Alcaçuz",
+      "nome_de": "Süßholz",
+      "nome_en": "Licorice",
+      "nome_cientifico": "Glycyrrhiza glabra",
+      "categorias": [
+        "respiratorio",
+        "digestao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Garganta",
+          "de": "Hals",
+          "en": "Throat",
+          "nota": 7
+        },
+        {
+          "pt": "Anti-inflamatório",
+          "de": "Entzündungshemmend",
+          "en": "Anti-inflammatory",
+          "nota": 7
+        },
+        {
+          "pt": "Mucosa gástrica",
+          "de": "Magenschleimhaut",
+          "en": "Gut mucosa",
+          "nota": 6
+        },
+        {
+          "pt": "Expectorante",
+          "de": "Schleimlösend",
+          "en": "Expectorant",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "Anti-inflamatório de garganta e mucosa, adoçante natural e expectorante. Poderoso, mas com um preço: eleva a pressão e retém sódio, então não serve para uso contínuo.",
+        "de": "Entzündungshemmend für Hals und Schleimhaut, natürlich süßend und schleimlösend. Wirksam, aber mit Preis: erhöht den Blutdruck und bindet Natrium — nicht für Dauergebrauch.",
+        "en": "An anti-inflammatory for throat and mucosa, a natural sweetener and expectorant. Powerful, but at a price: it raises blood pressure and retains sodium, so it's not for continuous use."
+      },
+      "preparo": {
+        "pt": "Decocção 5–10 min.",
+        "de": "5–10 Min. kochen.",
+        "en": "Decoct 5–10 min."
+      },
+      "avisos": {
+        "pt": "Eleva pressão; evitar hipertensão/rim/gravidez; máx. ~4–6 semanas.",
+        "de": "Erhöht Blutdruck; bei Hypertonie/Niere/Schwangerschaft meiden; max. ~4–6 Wochen.",
+        "en": "Raises pressure; avoid with hypertension/kidney/pregnancy; max ~4–6 weeks."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "canela",
+      "nome": "Canela",
+      "nome_de": "Zimt",
+      "nome_en": "Cinnamon",
+      "nome_cientifico": "Cinnamomum verum",
+      "categorias": [
+        "imunidade",
+        "digestao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Glicemia",
+          "de": "Blutzucker",
+          "en": "Blood sugar",
+          "nota": 6
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 6
+        },
+        {
+          "pt": "Termogênico",
+          "de": "Wärmend",
+          "en": "Thermogenic",
+          "nota": 5
+        },
+        {
+          "pt": "Antimicrobiano",
+          "de": "Antimikrobiell",
+          "en": "Antimicrobial",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "Aquece, ajuda a digestão e tem evidência modesta para controle de glicemia. Prefira a canela-do-ceilão (verum) à cássia para uso frequente, por causa da cumarina.",
+        "de": "Wärmt, unterstützt die Verdauung und zeigt bescheidene Belege für die Blutzuckerkontrolle. Für häufigen Gebrauch Ceylon-Zimt (verum) statt Cassia wegen Cumarin.",
+        "en": "It warms, aids digestion and has modest evidence for blood-sugar control. Prefer Ceylon cinnamon (verum) over cassia for frequent use, because of coumarin."
+      },
+      "preparo": {
+        "pt": "Decocção leve ou em pó no blend.",
+        "de": "Leichter Absud oder als Pulver in der Mischung.",
+        "en": "Light decoction or powdered in the blend."
+      },
+      "avisos": {
+        "pt": "Cássia em excesso: cumarina sobrecarrega o fígado.",
+        "de": "Cassia im Übermaß: Cumarin belastet die Leber.",
+        "en": "Excess cassia: coumarin burdens the liver."
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "louro",
+      "nome": "Louro",
+      "nome_de": "Lorbeer",
+      "nome_en": "Bay laurel",
+      "nome_cientifico": "Laurus nobilis",
+      "categorias": [
+        "digestao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 6
+        },
+        {
+          "pt": "Gases e inchaço",
+          "de": "Blähungen",
+          "en": "Gas & bloating",
+          "nota": 5
+        },
+        {
+          "pt": "Antiespasmódico",
+          "de": "Krampflösend",
+          "en": "Antispasmodic",
+          "nota": 4
+        }
+      ],
+      "descricao": {
+        "pt": "Digestivo aromático que ajuda contra gases — mas discreto: funcho e alcaravia ganham disparado. Como você já tem louro de cozinha, o valor dele como chá é limitado.",
+        "de": "Aromatisches Verdauungskraut gegen Blähungen — aber unauffällig: Fenchel und Kümmel sind klar stärker. Da Sie Lorbeer schon als Gewürz haben, ist sein Teewert begrenzt.",
+        "en": "An aromatic digestive that helps with gas — but discreet: fennel and caraway win by a wide margin. Since you already have culinary bay, its value as a tea is limited."
+      },
+      "preparo": {
+        "pt": "1–2 folhas em decocção 5 min.",
+        "de": "1–2 Blätter, 5 Min. kochen.",
+        "en": "1–2 leaves, decoct 5 min."
+      },
+      "avisos": {
+        "pt": "Seguro em dose culinária.",
+        "de": "Sicher in Küchendosis.",
+        "en": "Safe at culinary doses."
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "eucalipto",
+      "nome": "Eucalipto",
+      "nome_de": "Eukalyptus",
+      "nome_en": "Eucalyptus",
+      "nome_cientifico": "Eucalyptus globulus",
+      "categorias": [
+        "respiratorio"
+      ],
+      "funcoes": [
+        {
+          "pt": "Expectorante",
+          "de": "Schleimlösend",
+          "en": "Expectorant",
+          "nota": 8
+        },
+        {
+          "pt": "Respiratório",
+          "de": "Atemwege",
+          "en": "Respiratory",
+          "nota": 8
+        },
+        {
+          "pt": "Antimicrobiano",
+          "de": "Antimikrobiell",
+          "en": "Antimicrobial",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "O descongestionante clássico: o eucaliptol solta o muco e abre as vias respiratórias. Funciona tão bem em inalação de vapor quanto em chá.",
+        "de": "Das klassische Abschwellmittel: Eukalyptol löst den Schleim und öffnet die Atemwege. Wirkt als Dampfinhalation genauso gut wie als Tee.",
+        "en": "The classic decongestant: eucalyptol loosens mucus and opens the airways. It works as well in steam inhalation as in tea."
+      },
+      "preparo": {
+        "pt": "Infusão tampada 8 min, ou inalação de vapor.",
+        "de": "Zugedeckt 8 Min. ziehen oder Dampfinhalation.",
+        "en": "Covered infusion 8 min, or steam inhalation."
+      },
+      "avisos": {
+        "pt": "Não dar óleo essencial puro a crianças pequenas.",
+        "de": "Reines ätherisches Öl nicht für Kleinkinder.",
+        "en": "Don't give pure essential oil to young children."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "tomilho",
+      "nome": "Tomilho",
+      "nome_de": "Thymian",
+      "nome_en": "Thyme",
+      "nome_cientifico": "Thymus vulgaris",
+      "categorias": [
+        "respiratorio",
+        "imunidade"
+      ],
+      "funcoes": [
+        {
+          "pt": "Tosse produtiva",
+          "de": "Produktiver Husten",
+          "en": "Productive cough",
+          "nota": 7
+        },
+        {
+          "pt": "Antimicrobiano",
+          "de": "Antimikrobiell",
+          "en": "Antimicrobial",
+          "nota": 7
+        },
+        {
+          "pt": "Expectorante",
+          "de": "Schleimlösend",
+          "en": "Expectorant",
+          "nota": 6
+        },
+        {
+          "pt": "Respiratório",
+          "de": "Atemwege",
+          "en": "Respiratory",
+          "nota": 6
+        }
+      ],
+      "descricao": {
+        "pt": "O especialista em tosse produtiva: o timol é antimicrobiano e ajuda a expelir o muco — por isso entra em tantos xaropes. Cobre uma lacuna que o eucalipto sozinho não fecha.",
+        "de": "Der Spezialist bei produktivem Husten: Thymol ist antimikrobiell und hilft, Schleim abzuhusten — deshalb in vielen Hustensäften. Schließt eine Lücke, die Eukalyptus allein nicht deckt.",
+        "en": "The specialist for productive cough: thymol is antimicrobial and helps expel mucus — which is why it's in so many syrups. It fills a gap eucalyptus alone doesn't close."
+      },
+      "preparo": {
+        "pt": "Infusão tampada 8 min.",
+        "de": "Zugedeckt 8 Min. ziehen.",
+        "en": "Covered infusion 8 min."
+      },
+      "avisos": {
+        "pt": "Seguro; alergia à família da hortelã (Lamiaceae).",
+        "de": "Sicher; Allergie gegen Lippenblütler möglich.",
+        "en": "Safe; possible mint-family (Lamiaceae) allergy."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "melissa",
+      "nome": "Melissa (erva-cidreira)",
+      "nome_de": "Zitronenmelisse",
+      "nome_en": "Lemon balm",
+      "nome_cientifico": "Melissa officinalis",
+      "categorias": [
+        "nervoso",
+        "sono",
+        "digestao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Ansiedade",
+          "de": "Angst",
+          "en": "Anxiety",
+          "nota": 7
+        },
+        {
+          "pt": "Humor",
+          "de": "Stimmung",
+          "en": "Mood",
+          "nota": 7
+        },
+        {
+          "pt": "Digestão",
+          "de": "Verdauung",
+          "en": "Digestion",
+          "nota": 6
+        },
+        {
+          "pt": "Sono",
+          "de": "Schlaf",
+          "en": "Sleep",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "O nervino que faltava no seu kit: acalma ansiedade e levanta o humor com um efeito suave, e ainda solta a digestão nervosa. Muito segura, cresce fácil no jardim.",
+        "de": "Das fehlende Nervenkraut in Ihrem Kit: beruhigt Angst und hebt sanft die Stimmung, löst zudem nervöse Verdauung. Sehr sicher, wächst leicht im Garten.",
+        "en": "The nervine your kit was missing: it calms anxiety and lifts mood with a gentle effect, and also loosens nervous digestion. Very safe, grows easily in the garden."
+      },
+      "preparo": {
+        "pt": "Infusão tampada 5–8 min.",
+        "de": "Zugedeckt 5–8 Min. ziehen.",
+        "en": "Covered infusion 5–8 min."
+      },
+      "avisos": {
+        "pt": "Muito segura; teórica interação com tireoide em dose alta.",
+        "de": "Sehr sicher; theoretisch Schilddrüsen-Wechselwirkung in hoher Dosis.",
+        "en": "Very safe; theoretical thyroid interaction at high doses."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "passiflora",
+      "nome": "Passiflora (maracujá)",
+      "nome_de": "Passionsblume",
+      "nome_en": "Passionflower",
+      "nome_cientifico": "Passiflora incarnata",
+      "categorias": [
+        "sono",
+        "nervoso"
+      ],
+      "funcoes": [
+        {
+          "pt": "Ansiedade",
+          "de": "Angst",
+          "en": "Anxiety",
+          "nota": 7
+        },
+        {
+          "pt": "Sono",
+          "de": "Schlaf",
+          "en": "Sleep",
+          "nota": 7
+        },
+        {
+          "pt": "Calmante",
+          "de": "Beruhigend",
+          "en": "Calming",
+          "nota": 6
+        }
+      ],
+      "descricao": {
+        "pt": "Mais sedativa que lavanda e camomila: ajuda tanto na ansiedade diurna quanto no sono, com evidência moderada. É a peça 'pesada' do eixo calmante do seu kit.",
+        "de": "Sedierender als Lavendel und Kamille: hilft bei Tagesangst und Schlaf, mit moderater Evidenz. Das 'schwere' Stück der beruhigenden Achse Ihres Kits.",
+        "en": "More sedative than lavender and chamomile: it helps both daytime anxiety and sleep, with moderate evidence. The 'heavy' piece of your kit's calming axis."
+      },
+      "preparo": {
+        "pt": "Infusão tampada 8 min, à noite.",
+        "de": "Zugedeckt 8 Min. ziehen, abends.",
+        "en": "Covered infusion 8 min, at night."
+      },
+      "avisos": {
+        "pt": "Não empilhar com sedativos/álcool; evitar gravidez.",
+        "de": "Nicht mit Sedativa/Alkohol kombinieren; Schwangerschaft meiden.",
+        "en": "Don't stack with sedatives/alcohol; avoid pregnancy."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "hibisco",
+      "nome": "Hibisco",
+      "nome_de": "Hibiskus",
+      "nome_en": "Hibiscus",
+      "nome_cientifico": "Hibiscus sabdariffa",
+      "categorias": [
+        "cardiovascular"
+      ],
+      "funcoes": [
+        {
+          "pt": "Pressão arterial",
+          "de": "Blutdruck",
+          "en": "Blood pressure",
+          "nota": 7
+        },
+        {
+          "pt": "Antioxidante",
+          "de": "Antioxidativ",
+          "en": "Antioxidant",
+          "nota": 6
+        },
+        {
+          "pt": "Diurético",
+          "de": "Harntreibend",
+          "en": "Diuretic",
+          "nota": 4
+        }
+      ],
+      "descricao": {
+        "pt": "A peça cardiovascular do kit: vários estudos mostram queda modesta da pressão sistólica com uso regular, e é riquíssimo em antioxidantes. Sabor ácido agradável, cor rubi.",
+        "de": "Das Herz-Kreislauf-Stück des Kits: mehrere Studien zeigen bei regelmäßigem Gebrauch einen leichten Rückgang des systolischen Drucks, dazu sehr antioxidantienreich. Angenehm säuerlich, rubinrot.",
+        "en": "The cardiovascular piece of the kit: several studies show a modest drop in systolic pressure with regular use, and it's very rich in antioxidants. Pleasantly tart, ruby-colored."
+      },
+      "preparo": {
+        "pt": "Infusão 8–10 min; quente ou gelado.",
+        "de": "8–10 Min. ziehen; heiß oder kalt.",
+        "en": "Infuse 8–10 min; hot or iced."
+      },
+      "avisos": {
+        "pt": "Baixa a pressão — cautela se hipotenso ou usa anti-hipertensivo.",
+        "de": "Senkt den Druck — Vorsicht bei niedrigem Druck/Blutdruckmitteln.",
+        "en": "Lowers pressure — caution if hypotensive or on blood-pressure meds."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "altea",
+      "nome": "Altéia (malva-branca)",
+      "nome_de": "Eibisch",
+      "nome_en": "Marshmallow",
+      "nome_cientifico": "Althaea officinalis",
+      "categorias": [
+        "respiratorio",
+        "digestao"
+      ],
+      "funcoes": [
+        {
+          "pt": "Emoliente (mucilagem)",
+          "de": "Reizlindernd (Schleimstoffe)",
+          "en": "Demulcent (mucilage)",
+          "nota": 8
+        },
+        {
+          "pt": "Mucosa gástrica",
+          "de": "Magenschleimhaut",
+          "en": "Gut mucosa",
+          "nota": 7
+        },
+        {
+          "pt": "Garganta",
+          "de": "Hals",
+          "en": "Throat",
+          "nota": 6
+        }
+      ],
+      "descricao": {
+        "pt": "Pura mucilagem que reveste e acalma garganta e mucosa gástrica — o demulcente diário seguro que o alcaçuz não pode ser (não mexe com a pressão). Ótima para refluxo e garganta irritada.",
+        "de": "Reine Schleimstoffe, die Hals und Magenschleimhaut überziehen und beruhigen — das sichere tägliche Reizmittel, das Süßholz nicht sein kann (kein Blutdruck-Effekt). Gut bei Reflux und gereiztem Hals.",
+        "en": "Pure mucilage that coats and soothes throat and gut mucosa — the safe daily demulcent licorice can't be (no effect on pressure). Great for reflux and an irritated throat."
+      },
+      "preparo": {
+        "pt": "Macerar a frio 1–2 h preserva a mucilagem.",
+        "de": "Kaltauszug 1–2 h bewahrt die Schleimstoffe.",
+        "en": "Cold macerate 1–2 h to preserve the mucilage."
+      },
+      "avisos": {
+        "pt": "Pode atrasar a absorção de outros remédios — separe 1–2 h.",
+        "de": "Kann die Aufnahme anderer Mittel verzögern — 1–2 h trennen.",
+        "en": "May delay absorption of other medicines — separate by 1–2 h."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "sabugueiro",
+      "nome": "Sabugueiro",
+      "nome_de": "Holunder",
+      "nome_en": "Elderflower/berry",
+      "nome_cientifico": "Sambucus nigra",
+      "categorias": [
+        "imunidade",
+        "respiratorio"
+      ],
+      "funcoes": [
+        {
+          "pt": "Antiviral",
+          "de": "Antiviral",
+          "en": "Antiviral",
+          "nota": 7
+        },
+        {
+          "pt": "Imunidade",
+          "de": "Immunsystem",
+          "en": "Immune support",
+          "nota": 6
+        },
+        {
+          "pt": "Respiratório",
+          "de": "Atemwege",
+          "en": "Respiratory",
+          "nota": 5
+        }
+      ],
+      "descricao": {
+        "pt": "O antiviral do kit: alguns ensaios mostram redução da duração da gripe. A flor é diaforética (ajuda a 'suar a febre'); o fruto bem preparado é rico em antocianinas.",
+        "de": "Das antivirale Stück des Kits: einige Studien zeigen eine verkürzte Grippedauer. Die Blüte ist schweißtreibend ('Fieber ausschwitzen'); die gut zubereitete Beere ist reich an Anthocyanen.",
+        "en": "The antiviral piece of the kit: some trials show reduced flu duration. The flower is diaphoretic (helps 'sweat out a fever'); well-prepared berries are rich in anthocyanins."
+      },
+      "preparo": {
+        "pt": "Flor em infusão 8 min; fruto sempre cozido.",
+        "de": "Blüte 8 Min. ziehen; Beeren stets gekocht.",
+        "en": "Flower infused 8 min; berries always cooked."
+      },
+      "avisos": {
+        "pt": "Fruto cru/verde, folhas e casca são tóxicos.",
+        "de": "Rohe/grüne Beeren, Blätter und Rinde sind giftig.",
+        "en": "Raw/green berries, leaves and bark are toxic."
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "crisantemo",
+      "nome": "Crisântemo",
+      "nome_de": "Chrysantheme",
+      "nome_en": "Chrysanthemum",
+      "nome_cientifico": "Chrysanthemum morifolium",
+      "categorias": [
+        "terceiro_olho"
+      ],
+      "funcoes": [
+        {
+          "pt": "Uso ritual",
+          "de": "Ritueller Gebrauch",
+          "en": "Ritual use",
+          "nota": 5
+        },
+        {
+          "pt": "Calmante",
+          "de": "Beruhigend",
+          "en": "Calming",
+          "nota": 4
+        },
+        {
+          "pt": "Anti-inflamatório",
+          "de": "Entzündungshemmend",
+          "en": "Anti-inflammatory",
+          "nota": 4
+        }
+      ],
+      "descricao": {
+        "pt": "Na medicina chinesa, 'clareia a visão' e refresca o calor da cabeça. Fora desse paradigma o efeito é fraco; o valor aqui é aromático e ritual, não farmacológico.",
+        "de": "In der chinesischen Medizin 'klärt es die Sicht' und kühlt Hitze im Kopf. Außerhalb dieses Paradigmas schwache Wirkung; der Wert ist aromatisch und rituell, nicht pharmakologisch.",
+        "en": "In Chinese medicine it 'clears the vision' and cools heat in the head. Outside that paradigm the effect is weak; the value here is aromatic and ritual, not pharmacological."
+      },
+      "preparo": {
+        "pt": "Infusão leve 3–5 min.",
+        "de": "Leicht 3–5 Min. ziehen.",
+        "en": "Light infusion 3–5 min."
+      },
+      "avisos": {
+        "pt": "Rara alergia (Asteraceae).",
+        "de": "Selten Allergie (Korbblütler).",
+        "en": "Rare allergy (Asteraceae)."
+      },
+      "confianca": "baixa"
+    },
+    {
+      "id": "patchouli",
+      "nome": "Patchouli",
+      "nome_de": "Patschuli",
+      "nome_en": "Patchouli",
+      "nome_cientifico": "Pogostemon cablin",
+      "categorias": [
+        "terceiro_olho"
+      ],
+      "funcoes": [
+        {
+          "pt": "Aromático",
+          "de": "Aromatisch",
+          "en": "Aromatic",
+          "nota": 7
+        },
+        {
+          "pt": "Uso ritual",
+          "de": "Ritueller Gebrauch",
+          "en": "Ritual use",
+          "nota": 6
+        },
+        {
+          "pt": "Antimicrobiano",
+          "de": "Antimikrobiell",
+          "en": "Antimicrobial",
+          "nota": 3
+        }
+      ],
+      "descricao": {
+        "pt": "Praticamente um aroma, não uma bebida: o valor é o incenso terroso de ancoramento (grounding), usado para assentar o ambiente antes da prática. Como chá interno, é fraco.",
+        "de": "Praktisch ein Duft, kein Getränk: der Wert liegt im erdigen, erdenden Räucherduft, um den Raum vor der Praxis zu setzen. Als Tee innerlich schwach.",
+        "en": "Practically an aroma, not a drink: the value is the earthy, grounding incense used to settle a space before practice. As an internal tea, it's weak."
+      },
+      "preparo": {
+        "pt": "Uso sobretudo aromático (incenso/óleo).",
+        "de": "Vor allem aromatisch (Räucherwerk/Öl).",
+        "en": "Mostly aromatic use (incense/oil)."
+      },
+      "avisos": {
+        "pt": "Uso interno não recomendado em quantidade.",
+        "de": "Innerlich nicht in Menge empfohlen.",
+        "en": "Internal use not recommended in quantity."
+      },
+      "confianca": "baixa"
+    },
+    {
+      "id": "hanfblatter",
+      "nome": "Folha de cânhamo",
+      "nome_de": "Hanfblätter",
+      "nome_en": "Hemp leaf",
+      "nome_cientifico": "Cannabis sativa",
+      "categorias": [
+        "sono",
+        "nervoso"
+      ],
+      "funcoes": [
+        {
+          "pt": "Relaxante muscular",
+          "de": "Muskelentspannend",
+          "en": "Muscle relaxant",
+          "nota": 5
+        },
+        {
+          "pt": "Anti-inflamatório",
+          "de": "Entzündungshemmend",
+          "en": "Anti-inflammatory",
+          "nota": 4
+        },
+        {
+          "pt": "Sono",
+          "de": "Schlaf",
+          "en": "Sleep",
+          "nota": 4
+        }
+      ],
+      "descricao": {
+        "pt": "Infusão relaxante suave; lavanda e camomila fazem o mesmo com mais evidência. Conforme a variedade, pode conter traços de canabinoides — a semente não tem THC.",
+        "de": "Milde entspannende Infusion; Lavendel und Kamille leisten dasselbe mit mehr Evidenz. Je nach Sorte Spuren von Cannabinoiden möglich — der Samen enthält kein THC.",
+        "en": "A mild relaxing infusion; lavender and chamomile do the same with more evidence. Depending on the variety it may contain traces of cannabinoids — the seed has no THC."
+      },
+      "preparo": {
+        "pt": "Infusão 5 min; com um pouco de gordura para canabinoides.",
+        "de": "5 Min. ziehen; mit etwas Fett für Cannabinoide.",
+        "en": "Infuse 5 min; with a little fat for cannabinoids."
+      },
+      "avisos": {
+        "pt": "Verifique a variedade e a legislação local.",
+        "de": "Sorte und lokale Gesetzeslage prüfen.",
+        "en": "Check the variety and local law."
+      },
+      "confianca": "baixa"
+    },
+    {
+      "id": "hanfsamen",
+      "nome": "Semente de cânhamo",
+      "nome_de": "Hanfsamen",
+      "nome_en": "Hemp seed",
+      "nome_cientifico": "Cannabis sativa",
+      "categorias": [
+        "nervoso"
+      ],
+      "funcoes": [
+        {
+          "pt": "Nutritivo",
+          "de": "Nährstoffreich",
+          "en": "Nutritional",
+          "nota": 9
+        },
+        {
+          "pt": "Anti-inflamatório",
+          "de": "Entzündungshemmend",
+          "en": "Anti-inflammatory",
+          "nota": 6
+        }
+      ],
+      "descricao": {
+        "pt": "Alimento, não chá: proteína completa, magnésio e ômega-3/6 em boa proporção. Entra no kit como reforço nutricional, não como infusão.",
+        "de": "Lebensmittel, kein Tee: vollständiges Protein, Magnesium und ein gutes Omega-3/6-Verhältnis. Gehört als Nährstoff-Booster ins Kit, nicht als Aufguss.",
+        "en": "A food, not a tea: complete protein, magnesium and a good omega-3/6 ratio. It joins the kit as a nutritional booster, not an infusion."
+      },
+      "preparo": {
+        "pt": "Consumir a semente (salada, vitamina), não infundir.",
+        "de": "Samen essen (Salat, Smoothie), nicht aufgießen.",
+        "en": "Eat the seed (salad, smoothie), don't infuse."
+      },
+      "avisos": {
+        "pt": "Sem THC; alimento seguro.",
+        "de": "Ohne THC; sicheres Lebensmittel.",
+        "en": "No THC; safe food."
+      },
+      "confianca": "alta"
+    }
+  ]
+}

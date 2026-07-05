@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Herbário · Soul Youniversity</title>
+  <meta name="description" content="Herbário doméstico: ervas por objetivo, potência e preparo. PT · DE · EN." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Newsreader:ital,opsz@0,6..72;1,6..72&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="brand-text">
+          <span class="brand-name">Herbário</span>
+          <span class="brand-sub">Soul Youniversity</span>
+        </span>
+      </div>
+      <div class="lang" role="group" aria-label="Idioma / Sprache / Language">
+        <button data-lang="pt" class="lang-btn">PT</button>
+        <button data-lang="de" class="lang-btn">DE</button>
+        <button data-lang="en" class="lang-btn">EN</button>
+      </div>
+    </div>
+    <nav class="wrap tabs" aria-label="Seções">
+      <button data-view="ervas" class="tab"></button>
+      <button data-view="categorias" class="tab"></button>
+      <button data-view="sobre" class="tab"></button>
+    </nav>
+  </header>
+
+  <main id="app" class="wrap" aria-live="polite"></main>
+
+  <div id="modal" class="modal" hidden>
+    <div class="modal-scrim" data-close></div>
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modal-name" tabindex="-1"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
