@@ -24,6 +24,9 @@ const UI = {
   descLabel: {pt:"Descrição",de:"Beschreibung",en:"Description"},
   prep:      {pt:"Preparo",de:"Zubereitung",en:"Preparation"},
   warn:      {pt:"Avisos",de:"Hinweise",en:"Cautions"},
+  metodoLbl: {pt:"Método",de:"Methode",en:"Method"},
+  tempLbl:   {pt:"Temperatura",de:"Temperatur",en:"Temperature"},
+  blendHow:  {pt:"Como preparar o blend",de:"Mischung zubereiten",en:"How to prepare the blend"},
   blendLbl:  {pt:"Blend recomendado",de:"Empfohlene Mischung",en:"Recommended blend"},
   membersLbl:{pt:"Todas as ervas desta categoria",de:"Alle Kräuter dieser Kategorie",en:"All herbs in this category"},
   conf:      {alta:{pt:"confiança alta",de:"hohe Sicherheit",en:"high confidence"},media:{pt:"confiança média",de:"mittlere Sicherheit",en:"medium confidence"},baixa:{pt:"confiança baixa",de:"geringe Sicherheit",en:"low confidence"}},
@@ -92,6 +95,64 @@ const CAT = {
     note:{pt:"Domínio simbólico: só a lavanda tem efeito comprovado (calmante). O resto é tradição — sem base científica para “ativar a pineal”.",de:"Symbolischer Bereich: nur Lavendel hat nachgewiesene (beruhigende) Wirkung. Der Rest ist Tradition — keine wissenschaftliche Grundlage, die Zirbeldrüse zu „aktivieren“.",en:"Symbolic domain: only lavender has a proven (calming) effect. The rest is tradition — no scientific basis for “activating the pineal.”"}},
 };
 const CAT_ORDER = ["digestao","limpeza","menstruacao","enxaqueca","imunidade","dores","sono","nervoso","respiratorio","cardiovascular","terceiro_olho"];
+
+// método de preparo -> rótulo trilíngue
+const METODO = {
+  infusao:      {pt:"Infusão",de:"Aufguss",en:"Infusion"},
+  decoccao:     {pt:"Decocção",de:"Absud",en:"Decoction"},
+  macerado_frio:{pt:"Macerado a frio",de:"Kaltauszug",en:"Cold macerate"},
+  mate:         {pt:"Infusão morna",de:"Warmer Aufguss",en:"Warm infusion"},
+  aromatico:    {pt:"Uso aromático",de:"Aromatisch",en:"Aromatic use"},
+  alimento:     {pt:"Alimento",de:"Lebensmittel",en:"Food"},
+};
+
+// preparo específico de cada combinação (método em frase + temperatura)
+const BLEND_PREP = {
+  digestao:{temp:"90–100", how:{
+    pt:"Ferva o gengibre e as sementes ~5 min; desligue e abafe hortelã e camomila por 5 min.",
+    de:"Ingwer und Samen ~5 Min. kochen; vom Herd nehmen, Minze und Kamille 5 Min. zugedeckt ziehen.",
+    en:"Boil ginger and seeds ~5 min; off the heat, steep mint and chamomile 5 min, covered."}},
+  limpeza:{temp:"100", how:{
+    pt:"Decocção das raízes (dente-de-leão, cavalinha) 10–15 min; junte a urtiga só ao desligar.",
+    de:"Wurzeln (Löwenzahn, Schachtelhalm) 10–15 Min. abkochen; Brennnessel erst am Ende zugeben.",
+    en:"Decoct the roots (dandelion, horsetail) 10–15 min; add nettle only when you turn off the heat."}},
+  menstruacao:{temp:"90–100", how:{
+    pt:"Ferva o gengibre ~5 min; desligue e abafe alquemila e camomila por 8 min.",
+    de:"Ingwer ~5 Min. kochen; dann Frauenmantel und Kamille 8 Min. zugedeckt ziehen.",
+    en:"Boil ginger ~5 min; then steep lady's mantle and chamomile 8 min, covered."}},
+  enxaqueca:{temp:"85–90", how:{
+    pt:"Tanaceto em infusão abafada — não ferver, o princípio ativo é sensível ao calor. O gengibre é decocção à parte, para a crise.",
+    de:"Mutterkraut als zugedeckter Aufguss — nicht kochen, hitzeempfindlich. Ingwer separat abkochen, für den Anfall.",
+    en:"Feverfew as a covered infusion — don't boil, the active is heat-sensitive. Ginger is decocted separately, for the attack."}},
+  imunidade:{temp:"100", how:{
+    pt:"Decocção de gengibre, cúrcuma e cravo 8–10 min (cúrcuma com pimenta e um fio de gordura); junte a flor de sabugueiro ao desligar.",
+    de:"Ingwer, Kurkuma und Nelken 8–10 Min. abkochen (Kurkuma mit Pfeffer und etwas Fett); Holunderblüte am Ende zugeben.",
+    en:"Decoct ginger, turmeric and clove 8–10 min (turmeric with pepper and a little fat); add elderflower at the end."}},
+  dores:{temp:"100", how:{
+    pt:"Decocção das raízes (garra-do-diabo, cúrcuma, gengibre) 10 min em fervura branda.",
+    de:"Wurzeln (Teufelskralle, Kurkuma, Ingwer) 10 Min. sanft köcheln.",
+    en:"Decoct the roots (devil's claw, turmeric, ginger) 10 min at a gentle boil."}},
+  sono:{temp:"90", how:{
+    pt:"Infusão abafada 8 min; nunca ferver as flores.",
+    de:"Zugedeckter Aufguss 8 Min.; Blüten nie kochen.",
+    en:"Covered infusion 8 min; never boil the flowers."}},
+  nervoso:{temp:"85–90", how:{
+    pt:"Infusão abafada 6–8 min, temperatura mais baixa — a melissa perde o aroma se fervida.",
+    de:"Zugedeckter Aufguss 6–8 Min., niedrigere Temperatur — Melisse verliert das Aroma beim Kochen.",
+    en:"Covered infusion 6–8 min at a lower temperature — lemon balm loses its aroma if boiled."}},
+  respiratorio:{temp:"90", how:{
+    pt:"Infusão abafada de eucalipto e tomilho 8 min. Para preservar a mucilagem, macere a altéia a frio 1–2 h à parte e junte no fim.",
+    de:"Eukalyptus und Thymian 8 Min. zugedeckt aufgießen. Für die Schleimstoffe Eibisch 1–2 h kalt ansetzen und am Ende zugeben.",
+    en:"Covered infusion of eucalyptus and thyme 8 min. To keep the mucilage, cold-macerate marshmallow 1–2 h separately and add at the end."}},
+  cardiovascular:{temp:"90–95", how:{
+    pt:"Infusão abafada 8–10 min; sirva quente ou gelado.",
+    de:"Zugedeckter Aufguss 8–10 Min.; heiß oder kalt servieren.",
+    en:"Covered infusion 8–10 min; serve hot or iced."}},
+  terceiro_olho:{temp:"90", how:{
+    pt:"Infusão abafada breve, 5 min. Uma xícara morna antes de sentar.",
+    de:"Kurzer zugedeckter Aufguss, 5 Min. Eine warme Tasse vor dem Sitzen.",
+    en:"Brief covered infusion, 5 min. A warm cup before sitting."}},
+};
 
 // ---------- estado ----------
 let DB = [];               // ervas
@@ -214,6 +275,7 @@ function renderCategorias(){
           <div class="lbl">${esc(tr(UI.blendLbl))}</div>
           <div class="herbs">${blendChips}</div>
           <p class="why">${esc(tr(c.why))}</p>
+          ${BLEND_PREP[cid] ? `<div class="blend-how"><b>${esc(tr(UI.blendHow))}${BLEND_PREP[cid].temp?` · ${esc(BLEND_PREP[cid].temp)} °C`:""}</b>${esc(tr(BLEND_PREP[cid].how))}</div>` : ""}
         </div>
         ${c.note?`<div class="note">${esc(tr(c.note))}</div>`:""}
         <div style="margin-top:16px" class="lbl-mem"><span class="tag">${esc(tr(UI.membersLbl))}</span></div>
@@ -329,10 +391,13 @@ function openModal(id){
     <div class="md-fns">${fns}</div>
     <div class="md-section-lbl">${esc(tr(UI.descLabel))}</div>
     <p class="md-desc">${esc(tr(e.descricao))}</p>
-    <div class="md-pair">
-      <div class="md-box"><div class="k">${esc(tr(UI.prep))}</div><p>${esc(tr(e.preparo))}</p></div>
-      <div class="md-box warn"><div class="k">${esc(tr(UI.warn))}</div><p>${esc(tr(e.avisos))}</p></div>
-    </div>`;
+    <div class="md-section-lbl">${esc(tr(UI.prep))}</div>
+    <div class="prep-facts">
+      <span class="fact"><em>${esc(tr(UI.metodoLbl))}</em>${esc(tr(METODO[e.metodo]||{pt:e.metodo||"—"}))}</span>
+      ${e.temp_c ? `<span class="fact"><em>${esc(tr(UI.tempLbl))}</em>${esc(e.temp_c)} °C</span>` : ""}
+    </div>
+    <p class="md-preptext">${esc(tr(e.preparo))}</p>
+    <div class="md-box warn"><div class="k">${esc(tr(UI.warn))}</div><p>${esc(tr(e.avisos))}</p></div>`;
   const m = document.getElementById("modal");
   m.hidden = false; document.body.style.overflow="hidden";
   card.focus();
