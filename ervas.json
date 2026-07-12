@@ -44,6 +44,8 @@
         "de": "Wärmende Wurzel und eines der besten Verdauungsmittel: beschleunigt die Magenentleerung und lindert nachweislich Übelkeit. Wirkt echt entzündungshemmend, mit Belegen bei Menstruations- und Muskelschmerzen.",
         "en": "A warming root and one of the best digestive aids there is: it speeds gastric emptying and reliably cuts nausea. It has genuine anti-inflammatory action, with evidence for menstrual and post-exercise muscle pain."
       },
+      "metodo": "decoccao",
+      "temp_c": "100",
       "preparo": {
         "pt": "Fresco ralado ou seco, fervido 8–10 min.",
         "de": "Frisch gerieben oder getrocknet, 8–10 Min. kochen.",
@@ -98,6 +100,8 @@
         "de": "Grundlegend entzündungshemmend und antioxidativ, mit Leberwirkung: regt die Gallenproduktion an — daher oft nach Gallenblasenentfernung empfohlen. Curcumin wird allein schlecht aufgenommen.",
         "en": "A baseline anti-inflammatory and antioxidant with liver action: it stimulates bile production, which is why it's often recommended after gallbladder removal. Curcumin is poorly absorbed on its own."
       },
+      "metodo": "decoccao",
+      "temp_c": "90–100",
       "preparo": {
         "pt": "Sempre com pitada de pimenta-preta e um pouco de gordura.",
         "de": "Immer mit einer Prise schwarzem Pfeffer und etwas Fett.",
@@ -151,6 +155,8 @@
         "de": "Dank Eugenol eine der stärksten antioxidativen und antimikrobiellen Wirkungen pro Gramm. Regt den Verdauungssaft an und wirkt lokal schmerzstillend (daher der alte Einsatz bei Zahnschmerzen).",
         "en": "One of the strongest antioxidant and antimicrobial powers per gram, thanks to eugenol. It stimulates digestive juices and has a local analgesic effect (the origin of its old use for toothache)."
       },
+      "metodo": "decoccao",
+      "temp_c": "95–100",
       "preparo": {
         "pt": "Pouco: 2–3 cravos no blend, com canela ou gengibre.",
         "de": "Wenig: 2–3 Nelken in der Mischung, mit Zimt oder Ingwer.",
@@ -203,6 +209,8 @@
         "de": "Das sanfteste und zuverlässigste Samen-Karminativum: löst Blähungen und Spannungsgefühl, entspannt Krämpfe. Traditionell auch bei Husten und zur Anregung der Milchbildung.",
         "en": "The gentlest, most reliable seed carminative: it clears gas and bloating and relaxes cramping. Traditionally also used for cough and to stimulate milk production."
       },
+      "metodo": "infusao",
+      "temp_c": "90–95",
       "preparo": {
         "pt": "1 col. de chá de sementes amassadas por xícara, infusão tampada 8 min.",
         "de": "1 TL zerstoßene Samen pro Tasse, zugedeckt 8 Min. ziehen.",
@@ -255,6 +263,8 @@
         "de": "Verwandt mit Fenchel, ebenso wirksam gegen Blähungen und Krämpfe — der 'Ersatz'-Samen Ihres Verdauungskits. Achtung: Kümmel ist nicht Kreuzkümmel.",
         "en": "A cousin of fennel, equally effective against gas and cramps — the 'spare' seed of your digestion kit. Note: Kümmel is caraway, not cumin (Kreuzkümmel)."
       },
+      "metodo": "infusao",
+      "temp_c": "90–95",
       "preparo": {
         "pt": "Sementes amassadas, infusão tampada 8 min.",
         "de": "Zerstoßene Samen, zugedeckt 8 Min. ziehen.",
@@ -309,6 +319,8 @@
         "de": "Entspannt die Muskulatur des Verdauungstrakts und lindert Übelkeit; Menthol öffnet zudem die Atemwege. Bei Spannungskopfschmerz wirkt das Öl an den Schläfen besser als der Tee.",
         "en": "Relaxes the digestive-tract muscles and eases nausea; the menthol also opens the airways. For tension headache, the oil on the temples works better than the tea."
       },
+      "metodo": "infusao",
+      "temp_c": "85–90",
       "preparo": {
         "pt": "Infusão tampada 5–8 min.",
         "de": "Zugedeckt 5–8 Min. ziehen.",
@@ -355,6 +367,8 @@
         "de": "Mildere Version der Pfefferminze: gleiche verdauungsfördernde, erfrischende Wirkung, weniger Menthol. Wenn Sie beide haben, deckt die Pfefferminze dies stärker ab.",
         "en": "A milder version of peppermint: the same digestive, refreshing effect with less menthol. If you have both, peppermint covers this more strongly."
       },
+      "metodo": "infusao",
+      "temp_c": "85–90",
       "preparo": {
         "pt": "Infusão tampada 5 min.",
         "de": "Zugedeckt 5 Min. ziehen.",
@@ -410,6 +424,8 @@
         "de": "Ein Allrounder des Herbariums: beruhigt entzündete Verdauungsschleimhaut, löst Krämpfe und entspannt das Nervensystem genug, um den Schlaf zu fördern. Sanft und vielseitig.",
         "en": "One of the herbarium's all-rounders: it calms inflamed digestive mucosa, releases cramping, and relaxes the nervous system enough to aid sleep. Gentle and versatile."
       },
+      "metodo": "infusao",
+      "temp_c": "90–95",
       "preparo": {
         "pt": "Infusão tampada 8 min; boa à noite.",
         "de": "Zugedeckt 8 Min. ziehen; gut am Abend.",
@@ -457,6 +473,8 @@
         "de": "Brasilianisches Kraut, der Kamille ähnlich (beide Korbblütler): verdauungsfördernd, beruhigend, krampflösend. Sehr gut bei nervösem Magen, aber funktionell redundant zur Kamille.",
         "en": "A Brazilian herb similar to chamomile (both Asteraceae): digestive, calming and antispasmodic. Excellent for a tense stomach, but functionally redundant with chamomile."
       },
+      "metodo": "infusao",
+      "temp_c": "90–95",
       "preparo": {
         "pt": "Infusão tampada 8 min.",
         "de": "Zugedeckt 8 Min. ziehen.",
@@ -510,6 +528,8 @@
         "de": "Der klassische Leber-Bitterstoff: regt Leber und Gallenfluss an, ideal beim 'Völlegefühl' nach fettem Essen. Nützlich bei fehlender Gallenblase, enthält aber Ascaridol — nicht dauerhaft anwenden.",
         "en": "The classic liver bitter: it stimulates liver and bile flow, ideal when the discomfort is the 'heaviness' of a fatty meal. Useful in your no-gallbladder case, but it contains ascaridole and shouldn't be used long-term."
       },
+      "metodo": "infusao",
+      "temp_c": "85–90",
       "preparo": {
         "pt": "Infusão 5 min, ~15 min antes das refeições.",
         "de": "5 Min. ziehen, ca. 15 Min. vor dem Essen.",
@@ -563,6 +583,8 @@
         "de": "Bitterer Leber- und Verdauungshelfer, der auch den Blutzucker senkt. Eine Säule jeder 'Reinigungs'-Mischung (Leberunterstützung), aber deutlich bitter im Geschmack.",
         "en": "A bitter liver and digestive herb that also helps lower blood sugar. A pillar of any 'cleanse' blend (liver support), though markedly bitter in taste."
       },
+      "metodo": "decoccao",
+      "temp_c": "95–100",
       "preparo": {
         "pt": "Decocção leve 5–10 min.",
         "de": "Leichter Absud 5–10 Min.",
@@ -616,6 +638,8 @@
         "de": "Das vollständigste 'Reinigungs'-Kraut in Ihrem Bestand: verbindet Leber (choleretisch) und Niere (harntreibend) in einem, mit Inulin für die Darmflora. Bitter, im guten Sinne.",
         "en": "The most complete 'cleanse' herb you have: it unites liver (choleretic) and kidney (diuretic) in one, with inulin that feeds gut flora. Bitter, in the good sense."
       },
+      "metodo": "decoccao",
+      "temp_c": "100",
       "preparo": {
         "pt": "Decocção da raiz, ferver 10 min.",
         "de": "Wurzel-Absud, 10 Min. kochen.",
@@ -662,6 +686,8 @@
         "de": "Kaliumreiches Diuretikum (selten: ersetzt das Mineral, das andere Entwässerer entziehen) und milder Verdauungsbitterstoff. Die Wurzel ist vollständiger; das Blatt glänzt nur als Diuretikum.",
         "en": "A potassium-rich diuretic (rare: it replaces the mineral other diuretics remove) and a mild digestive bitter. The root is more complete; the leaf shines only as a diuretic."
       },
+      "metodo": "infusao",
+      "temp_c": "90",
       "preparo": {
         "pt": "Infusão 5–8 min.",
         "de": "5–8 Min. ziehen.",
@@ -708,6 +734,8 @@
         "de": "Der Leberschutz schlechthin (Silymarin), mit Belegen zur Leberregeneration. Ehrlicher Hinweis: Silymarin ist kaum wasserlöslich — im Tee schwach; Extrakt/Tinktur deutlich stärker.",
         "en": "The liver protector par excellence (silymarin), with evidence for liver regeneration. Honest caveat: silymarin is poorly water-soluble — weak as a tea; extract/tincture is far stronger."
       },
+      "metodo": "decoccao",
+      "temp_c": "100",
       "preparo": {
         "pt": "Sementes amassadas em decocção; melhor como extrato.",
         "de": "Zerstoßene Samen als Absud; besser als Extrakt.",
@@ -760,6 +788,8 @@
         "de": "Starkes Diuretikum und kieselsäurereicher Mineralstofflieferant, gut für Nägel, Haar und Bindegewebe. Basis jeder Entwässerungskur — aber nicht zur Daueranwendung.",
         "en": "A potent diuretic and silica-rich remineralizer, useful for nails, hair and connective tissue. The base of any fluid-elimination protocol — but not for continuous use."
       },
+      "metodo": "decoccao",
+      "temp_c": "100",
       "preparo": {
         "pt": "Decocção 10–15 min para extrair a sílica.",
         "de": "10–15 Min. kochen, um Kieselsäure zu lösen.",
@@ -813,6 +843,8 @@
         "de": "Ein nährendes Tonikum als Kraut: remineralisiert (Eisen, Magnesium) und entwässert zugleich, hilft bei Gelenken und allergischem Schnupfen. Reinigt, indem es auffüllt statt nur entleert.",
         "en": "A nourishing tonic in herb form: it remineralizes (iron, magnesium) while eliminating fluid, and helps joints and allergic rhinitis. It depurates by replenishing rather than just emptying."
       },
+      "metodo": "infusao",
+      "temp_c": "90–95",
       "preparo": {
         "pt": "Infusão 8–10 min.",
         "de": "8–10 Min. ziehen.",
@@ -865,6 +897,8 @@
         "de": "Die beste Wahl in Ihrem Bestand bei Muskel-Skelett-Schmerz — die Belege betreffen gerade Rückenschmerz und Arthrose. Wirkt grundlegend: mit regelmäßigem Gebrauch, nicht sofort.",
         "en": "The best option in your stock for musculoskeletal pain — the evidence is precisely for lower-back pain and osteoarthritis. A baseline effect: it shows with regular use, not instantly."
       },
+      "metodo": "decoccao",
+      "temp_c": "95–100",
       "preparo": {
         "pt": "Decocção 10 min; uso regular por dias/semanas.",
         "de": "10 Min. kochen; regelmäßig über Tage/Wochen.",
@@ -912,6 +946,8 @@
         "de": "Das Referenzkraut zur MIGRÄNE-Prophylaxe: dauerhafte Einnahme senkt die Anfallshäufigkeit. Nicht zum Abbrechen eines laufenden Anfalls — Vorbeugung, kein Schmerzmittel.",
         "en": "The reference herb for migraine PREVENTION: continuous use reduces attack frequency. It won't abort an attack in progress — it's prophylaxis, not an analgesic."
       },
+      "metodo": "infusao",
+      "temp_c": "85–90",
       "preparo": {
         "pt": "Diário, por semanas, como profilaxia.",
         "de": "Täglich über Wochen, als Prophylaxe.",
@@ -964,6 +1000,8 @@
         "de": "Koffein- und antioxidantienreicher Wachmacher: liefert länger anhaltende Energie und Fokus als Kaffee, mit leicht wärmender Wirkung. Das Gegenteil eines Beruhigungsmittels — sein Platz ist der Morgen.",
         "en": "A caffeine- and antioxidant-rich stimulant: it gives more sustained energy and focus than coffee, with a mild thermogenic effect. The opposite of a calmative — its place is the morning."
       },
+      "metodo": "mate",
+      "temp_c": "70–80",
       "preparo": {
         "pt": "Água quente (não fervente) 70–80°C.",
         "de": "Heißes (nicht kochendes) Wasser, 70–80 °C.",
@@ -1019,6 +1057,8 @@
         "de": "Fördert Kreislauf und geistige Klarheit (Studien verbinden den Duft mit Gedächtnis) und hilft bei der Fettverdauung. Traditionell ein Kraut der Reinigung und des Fokus — gut vor der Meditation.",
         "en": "It boosts circulation and mental clarity (studies link the aroma to memory) and aids fat digestion. Traditionally a herb of purification and focus — useful before meditation."
       },
+      "metodo": "infusao",
+      "temp_c": "85–90",
       "preparo": {
         "pt": "Infusão tampada 5–8 min.",
         "de": "Zugedeckt 5–8 Min. ziehen.",
@@ -1073,6 +1113,8 @@
         "de": "Das zuverlässigste Beruhigungskraut: senkt Angst und erleichtert das Einschlafen, mit echter klinischer Evidenz (auch der standardisierte Oralextrakt). Die Brücke zwischen Körper und Ritual.",
         "en": "The most reliable calmative in the herbarium: it lowers anxiety and helps initiate sleep, with genuine clinical evidence (including the standardized oral extract). The bridge between the physical and the ritual."
       },
+      "metodo": "infusao",
+      "temp_c": "90",
       "preparo": {
         "pt": "Infusão tampada 5 min; o capim-limão suaviza o sabor.",
         "de": "Zugedeckt 5 Min. ziehen; Zitronengras mildert den Geschmack.",
@@ -1121,6 +1163,8 @@
         "de": "Mildes Beruhigungs- und Verdauungskraut mit zitrigem Geschmack, das jede Abendmischung aufwertet. Allein bescheiden; glänzt als Begleiter, der Lavendel und Kamille angenehmer macht.",
         "en": "A mild calmative and digestive with a citrusy taste that improves any evening blend. On its own it's modest; it shines as a companion that makes lavender and chamomile more pleasant."
       },
+      "metodo": "infusao",
+      "temp_c": "90–95",
       "preparo": {
         "pt": "Infusão 5–8 min.",
         "de": "5–8 Min. ziehen.",
@@ -1167,6 +1211,8 @@
         "de": "Das europäische Frauenkraut schlechthin: adstringierend, hilft den Zyklus zu regulieren und starke Blutung zu bremsen. Kann über den Monat verwendet werden, nicht nur an Blutungstagen.",
         "en": "The quintessential European women's herb: an astringent that helps regulate the cycle and curb heavy flow. It can be used throughout the month, not only on bleeding days."
       },
+      "metodo": "infusao",
+      "temp_c": "90–95",
       "preparo": {
         "pt": "Infusão 8 min, 1–2x ao dia.",
         "de": "8 Min. ziehen, 1–2×/Tag.",
@@ -1215,6 +1261,8 @@
         "de": "Verdauungsbitterstoff und Emmenagog, der den Zyklus anregt. Das westliche Kraut des Traums und der Vision — traditionell mit Traumarbeit und feiner Wahrnehmung verbunden (symbolisch, ohne klinischen Beleg).",
         "en": "A digestive bitter and emmenagogue that stimulates the cycle. It's the Western herb of dream and vision — traditionally tied to dream work and subtle perception (symbolic use, no clinical proof)."
       },
+      "metodo": "infusao",
+      "temp_c": "85–90",
       "preparo": {
         "pt": "Infusão 5 min; à noite para trabalho onírico.",
         "de": "5 Min. ziehen; abends für Traumarbeit.",
@@ -1261,6 +1309,8 @@
         "de": "Quelle von Artemisinin, mit langer Tradition als Antiparasitikum und Immunhilfe. Wichtig: nicht zur Malaria-Selbstbehandlung — Resistenzgefahr. In kurzen Zyklen anwenden.",
         "en": "The source of artemisinin, with a long antiparasitic and immune-support tradition. Important: it must not be self-administered to treat malaria — resistance risk. Use in short cycles."
       },
+      "metodo": "infusao",
+      "temp_c": "80–90",
       "preparo": {
         "pt": "Infusão 5–10 min; ciclos curtos, rotacionar.",
         "de": "5–10 Min. ziehen; kurze Zyklen, rotieren.",
@@ -1314,6 +1364,8 @@
         "de": "Brasilianische Rinde mit starker Tradition bei Gastritis und Schleimhautheilung, dazu antimikrobiell. In Europa schwer erhältlich; verwandt mit Cashew und Mango.",
         "en": "A Brazilian bark with a strong tradition for gastritis and mucosa healing, plus antimicrobial action. Hard to find in Europe; related to cashew and mango."
       },
+      "metodo": "decoccao",
+      "temp_c": "100",
       "preparo": {
         "pt": "Decocção da casca 10 min.",
         "de": "Rinden-Absud 10 Min.",
@@ -1367,6 +1419,8 @@
         "de": "Entzündungshemmend für Hals und Schleimhaut, natürlich süßend und schleimlösend. Wirksam, aber mit Preis: erhöht den Blutdruck und bindet Natrium — nicht für Dauergebrauch.",
         "en": "An anti-inflammatory for throat and mucosa, a natural sweetener and expectorant. Powerful, but at a price: it raises blood pressure and retains sodium, so it's not for continuous use."
       },
+      "metodo": "decoccao",
+      "temp_c": "100",
       "preparo": {
         "pt": "Decocção 5–10 min.",
         "de": "5–10 Min. kochen.",
@@ -1420,6 +1474,8 @@
         "de": "Wärmt, unterstützt die Verdauung und zeigt bescheidene Belege für die Blutzuckerkontrolle. Für häufigen Gebrauch Ceylon-Zimt (verum) statt Cassia wegen Cumarin.",
         "en": "It warms, aids digestion and has modest evidence for blood-sugar control. Prefer Ceylon cinnamon (verum) over cassia for frequent use, because of coumarin."
       },
+      "metodo": "decoccao",
+      "temp_c": "95–100",
       "preparo": {
         "pt": "Decocção leve ou em pó no blend.",
         "de": "Leichter Absud oder als Pulver in der Mischung.",
@@ -1466,6 +1522,8 @@
         "de": "Aromatisches Verdauungskraut gegen Blähungen — aber unauffällig: Fenchel und Kümmel sind klar stärker. Da Sie Lorbeer schon als Gewürz haben, ist sein Teewert begrenzt.",
         "en": "An aromatic digestive that helps with gas — but discreet: fennel and caraway win by a wide margin. Since you already have culinary bay, its value as a tea is limited."
       },
+      "metodo": "decoccao",
+      "temp_c": "95–100",
       "preparo": {
         "pt": "1–2 folhas em decocção 5 min.",
         "de": "1–2 Blätter, 5 Min. kochen.",
@@ -1512,6 +1570,8 @@
         "de": "Das klassische Abschwellmittel: Eukalyptol löst den Schleim und öffnet die Atemwege. Wirkt als Dampfinhalation genauso gut wie als Tee.",
         "en": "The classic decongestant: eucalyptol loosens mucus and opens the airways. It works as well in steam inhalation as in tea."
       },
+      "metodo": "infusao",
+      "temp_c": "90–95",
       "preparo": {
         "pt": "Infusão tampada 8 min, ou inalação de vapor.",
         "de": "Zugedeckt 8 Min. ziehen oder Dampfinhalation.",
@@ -1565,6 +1625,8 @@
         "de": "Der Spezialist bei produktivem Husten: Thymol ist antimikrobiell und hilft, Schleim abzuhusten — deshalb in vielen Hustensäften. Schließt eine Lücke, die Eukalyptus allein nicht deckt.",
         "en": "The specialist for productive cough: thymol is antimicrobial and helps expel mucus — which is why it's in so many syrups. It fills a gap eucalyptus alone doesn't close."
       },
+      "metodo": "infusao",
+      "temp_c": "85–90",
       "preparo": {
         "pt": "Infusão tampada 8 min.",
         "de": "Zugedeckt 8 Min. ziehen.",
@@ -1619,6 +1681,8 @@
         "de": "Das fehlende Nervenkraut in Ihrem Kit: beruhigt Angst und hebt sanft die Stimmung, löst zudem nervöse Verdauung. Sehr sicher, wächst leicht im Garten.",
         "en": "The nervine your kit was missing: it calms anxiety and lifts mood with a gentle effect, and also loosens nervous digestion. Very safe, grows easily in the garden."
       },
+      "metodo": "infusao",
+      "temp_c": "85–90",
       "preparo": {
         "pt": "Infusão tampada 5–8 min.",
         "de": "Zugedeckt 5–8 Min. ziehen.",
@@ -1666,6 +1730,8 @@
         "de": "Sedierender als Lavendel und Kamille: hilft bei Tagesangst und Schlaf, mit moderater Evidenz. Das 'schwere' Stück der beruhigenden Achse Ihres Kits.",
         "en": "More sedative than lavender and chamomile: it helps both daytime anxiety and sleep, with moderate evidence. The 'heavy' piece of your kit's calming axis."
       },
+      "metodo": "infusao",
+      "temp_c": "90–95",
       "preparo": {
         "pt": "Infusão tampada 8 min, à noite.",
         "de": "Zugedeckt 8 Min. ziehen, abends.",
@@ -1712,6 +1778,8 @@
         "de": "Das Herz-Kreislauf-Stück des Kits: mehrere Studien zeigen bei regelmäßigem Gebrauch einen leichten Rückgang des systolischen Drucks, dazu sehr antioxidantienreich. Angenehm säuerlich, rubinrot.",
         "en": "The cardiovascular piece of the kit: several studies show a modest drop in systolic pressure with regular use, and it's very rich in antioxidants. Pleasantly tart, ruby-colored."
       },
+      "metodo": "infusao",
+      "temp_c": "95–100",
       "preparo": {
         "pt": "Infusão 8–10 min; quente ou gelado.",
         "de": "8–10 Min. ziehen; heiß oder kalt.",
@@ -1759,6 +1827,8 @@
         "de": "Reine Schleimstoffe, die Hals und Magenschleimhaut überziehen und beruhigen — das sichere tägliche Reizmittel, das Süßholz nicht sein kann (kein Blutdruck-Effekt). Gut bei Reflux und gereiztem Hals.",
         "en": "Pure mucilage that coats and soothes throat and gut mucosa — the safe daily demulcent licorice can't be (no effect on pressure). Great for reflux and an irritated throat."
       },
+      "metodo": "macerado_frio",
+      "temp_c": "",
       "preparo": {
         "pt": "Macerar a frio 1–2 h preserva a mucilagem.",
         "de": "Kaltauszug 1–2 h bewahrt die Schleimstoffe.",
@@ -1806,6 +1876,8 @@
         "de": "Das antivirale Stück des Kits: einige Studien zeigen eine verkürzte Grippedauer. Die Blüte ist schweißtreibend ('Fieber ausschwitzen'); die gut zubereitete Beere ist reich an Anthocyanen.",
         "en": "The antiviral piece of the kit: some trials show reduced flu duration. The flower is diaphoretic (helps 'sweat out a fever'); well-prepared berries are rich in anthocyanins."
       },
+      "metodo": "infusao",
+      "temp_c": "90",
       "preparo": {
         "pt": "Flor em infusão 8 min; fruto sempre cozido.",
         "de": "Blüte 8 Min. ziehen; Beeren stets gekocht.",
@@ -1852,6 +1924,8 @@
         "de": "In der chinesischen Medizin 'klärt es die Sicht' und kühlt Hitze im Kopf. Außerhalb dieses Paradigmas schwache Wirkung; der Wert ist aromatisch und rituell, nicht pharmakologisch.",
         "en": "In Chinese medicine it 'clears the vision' and cools heat in the head. Outside that paradigm the effect is weak; the value here is aromatic and ritual, not pharmacological."
       },
+      "metodo": "infusao",
+      "temp_c": "85–90",
       "preparo": {
         "pt": "Infusão leve 3–5 min.",
         "de": "Leicht 3–5 Min. ziehen.",
@@ -1898,6 +1972,8 @@
         "de": "Praktisch ein Duft, kein Getränk: der Wert liegt im erdigen, erdenden Räucherduft, um den Raum vor der Praxis zu setzen. Als Tee innerlich schwach.",
         "en": "Practically an aroma, not a drink: the value is the earthy, grounding incense used to settle a space before practice. As an internal tea, it's weak."
       },
+      "metodo": "aromatico",
+      "temp_c": "",
       "preparo": {
         "pt": "Uso sobretudo aromático (incenso/óleo).",
         "de": "Vor allem aromatisch (Räucherwerk/Öl).",
@@ -1945,6 +2021,8 @@
         "de": "Milde entspannende Infusion; Lavendel und Kamille leisten dasselbe mit mehr Evidenz. Je nach Sorte Spuren von Cannabinoiden möglich — der Samen enthält kein THC.",
         "en": "A mild relaxing infusion; lavender and chamomile do the same with more evidence. Depending on the variety it may contain traces of cannabinoids — the seed has no THC."
       },
+      "metodo": "infusao",
+      "temp_c": "85–90",
       "preparo": {
         "pt": "Infusão 5 min; com um pouco de gordura para canabinoides.",
         "de": "5 Min. ziehen; mit etwas Fett für Cannabinoide.",
@@ -1985,6 +2063,8 @@
         "de": "Lebensmittel, kein Tee: vollständiges Protein, Magnesium und ein gutes Omega-3/6-Verhältnis. Gehört als Nährstoff-Booster ins Kit, nicht als Aufguss.",
         "en": "A food, not a tea: complete protein, magnesium and a good omega-3/6 ratio. It joins the kit as a nutritional booster, not an infusion."
       },
+      "metodo": "alimento",
+      "temp_c": "",
       "preparo": {
         "pt": "Consumir a semente (salada, vitamina), não infundir.",
         "de": "Samen essen (Salat, Smoothie), nicht aufgießen.",
